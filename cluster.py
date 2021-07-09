@@ -1,10 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul  8 10:31:57 2021
 
-@author: sam
-"""
+#Syntonics Filesystem Management
+
 import sklearn 
 delimiters = {' ','-','_'}
 
@@ -41,6 +37,15 @@ class Node:
             yield child.name
             yield from child.get_all_children_names()
     
+    def find_node(self,name):
+        if self.name == name:
+            return self
+        for child in self.children():
+            result = self.find_node(child,name)
+            if result:
+                return result
+        return None
+    
     def __str__(self):
         return self.name
     
@@ -66,6 +71,8 @@ for file in filenames:
                 directory.add_child(new_file)
             else:
                 parent.add_child(new_file)
+
+
 
 print(directory)
 for child in directory.get_children():
