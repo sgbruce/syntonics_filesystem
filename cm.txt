@@ -1,0 +1,4271 @@
++---100706-0001 Rev XA LOS RIU MMI PCB Assy
+|       100706-0001 Rev XA MMI PCB BOM.pdf
+|       Mmi_allegrodb_120303.ZIP
+|       Mmi_fabpkg_120303.ZIP
+|       
++---100706-0001 Rev XB LOS RIU MMI PCB Assy
++---101101-0002 Rev XA RIU Chassis
+|       101101-0002 Rev XA.pdf
+|       101112-0001 Rev XB.pdf
+|       101113-0001 Rev XC.pdf
+|       101114-0001 Rev XB.pdf
+|       101116-0001 Rev XB.pdf
+|       101117-0001 Rev XC.pdf
+|       
++---101102-0002 Rev XA AIU Chassis
+|       101102-0002 Rev XA.pdf
+|       101112-0001 Rev XB.pdf
+|       101113-0001 Rev XC.pdf
+|       101115-0001 Rev XB.pdf
+|       101116-0001 Rev XB.pdf
+|       101117-0001 Rev XC.pdf
+|       
++---101123-0001 Rev RA RIU PCB Assy
+|       101123-0001 Rev RA RIU PCB BOM 07-20-05.pdf
+|       Riu_101146-0001_xb_050605.ZIP
+|       
++---101123-0001 Rev XA RIU PCB Assy
+|   |   101146_REV_XA.ZIP
+|   |   Q24063 SYNTONICS, RIU_LINK_XG_BOM, 7-21-04.xls
+|   |   
+|   \---Schematic
+|           Riu_062404.brd
+|           RIU_LINK_RA.DSN
+|           riu_link_ra.opj
+|           riu_link_ra.pdf
+|           RIU_LINK_RA_0.DBK
+|           
++---101123-0001 Rev XC RIU PCB Assy
+|       101123-0001 Rev XC RIU PCB BOM.pdf
+|       Riu_101146-0001_xb_050605.ZIP
+|       
++---101123-0002 Rev RB RIU PCB
+|       101123-0002 Rev RB RIU PCB BOM.xls
+|       101146-0002 Rev RA RIU_fabpkg_.zip
+|       
++---101123-0002 Rev RC RIU PCB
+|       101123-0002 Rev RC RIU PCB BOM.xls
+|       101146-0002 Rev RA RIU_fabpkg_.zip
+|       
++---101123-0002_RE_CCA
+|       101123-0002_RE_BOM.pdf
+|       101123-0002_RE_BOM.xls
+|       101146-0002_RA_FAB.zip
+|       EC-NA-1026A.pdf
+|       
++---101124-0001 Rev RA AIU PCB Assy
+|       101124-0001 Rev RA AIU PCB BOM.pdf
+|       Aiu_101154-0001_xb_050605.ZIP
+|       
++---101124-0001 Rev XA AIU PCB Assy
+|   |   101154_0001_REV_XA.ZIP
+|   |   Q24073 SYNTONICS AIU_XE_BOM 8_24_04.xls
+|   |   
+|   \---Schematic
+|           Aiu_062904.brd
+|           AIU_LINK_RA.DSN
+|           aiu_link_ra.opj
+|           aiu_link_ra.pdf
+|           AIU_LINK_RA_0.DBK
+|           
++---101124-0001 Rev XC AIU PCB Assy
+|       101124-0001 Rev XC AIU PCB BOM.pdf
+|       Aiu_101154-0001_xb_050605.ZIP
+|       
++---101124-0003 Rev RA AIU PCB Assy
+|       101124-0003 Rev RA AIU PCB BOM.xls
+|       101154-0002 Rev RA AIU_fabpkg.ZIP
+|       
++---101124-0003 Rev RB AIU PCB Assy
+|       101124-0003 Rev RB AIU PCB BOM.xls
+|       101154-0002 Rev RA AIU_fabpkg.ZIP
+|       
++---101124-0003 Rev RC AIU PCB Assy
+|       101124-0003 Rev RC AIU PCB BOM.xls
+|       101154-0002_RA_FAB.ZIP
+|       
++---101124-0003_RD_CCA
+|   |   101124-0003 Rev RD AIU PCB BOM.xls
+|   |   101124-0003_RD.DSN
+|   |   101124-0003_RD_BOM.pdf
+|   |   101124-0003_RD_Schematic.pdf
+|   |   101154-0002_RA_FAB.ZIP
+|   |   
+|   \---101124-0003_RD_Source
++---101148-0001 Rev XA Insulator
+|       101148-0001 Rev XA.pdf
+|       
++---101194-0001 Rev XA DC Converter PCB Assy
+|       101194-0001.zip
+|       
++---101194-0002 Rev XA DC Converter PCB Assy
+|       101194-0002.zip
+|       
++---101195-0002_RA_CCA
+|       101194-0002.zip
+|       101195-0002 Rev RA DC AIU BOM.pdf
+|       101195-0002_RA_BOM.pdf
+|       101195-0002_RA_Schematic.pdf
+|       
++---101196-0002_RA_CCA
+|       101194-0002.zip
+|       101196-0002 Rev RA DC RIU BOM.pdf
+|       101196-0002_RA_BOM.pdf
+|       101196-0002_RA_Schematic.pdf
+|       
++---101275-0001 Rev XA LOS RIU Power Filter PCB Assy
+|       101276-0001 Rev XA.zip
+|       
++---101320-0001 Rev RA LOS4 RF Filter PCB Assy
+|       101320-0001 Rev RA RF FIlter PCB BOM.xls
+|       Filter_100842-0001_XC_071605.ZIP
+|       filter_allegrodb_RevXC_071605.zip
+|       
++---101320-0001 Rev RB LOS4 RF Filter PCB Assy
+|   |   100842-0001_RB_FAB.zip
+|   |   101320-0001_RB_BOM.xls
+|   |   101320-0001_RB_Schematic.pdf
+|   |   
+|   \---101320-0001_RB_Source
+|           101320-0001_RB.BOM
+|           101320-0001_RB.BOM.xls
+|           101320-0001_RB.DRC
+|           101320-0001_RB.DSN
+|           101320-0001_RB.opj
+|           101320-0001_RB.pdf
+|           101320-0001_RB.XRF
+|           101320-0001_RB_0.DBK
+|           
++---101320-0001 Rev XA LOS4 RF Filter PCB Assy
+|       Filter_100842-0001_XC_071605.ZIP
+|       filter_allegrodb_RevXC_071605.zip
+|       
++---101320-0001 Rev XC LOS4 RF Filter PCB Assy
+|       101320-0001 Rev XC RF FIlter PCB BOM.pdf
+|       101320-0001 Rev XC RF FIlter PCB BOM.xls
+|       Filter_100842-0001_XC_071605.ZIP
+|       filter_allegrodb_RevXC_071605.zip
+|       
++---101320-0001_RC_CCA
+|       100842-0001_RB_FAB.zip
+|       101320-0001_RC_BOM.pdf
+|       101320-0001_RC_BOM.xls
+|       101320-0001_RC_Schematic.pdf
+|       101320-0001_RC_source.zip
+|       105033-0002_RC_Schematic.pdf
+|       
++---101320-0001_RD_CCA
+|       101320-0001_RD_Assembly.PDF
+|       101320-0001_RD_BOM.pdf
+|       101320-0001_RD_BOM.xlsx
+|       101320-0001_RD_BOM_2013-12-19_Preliminary.xlsx
+|       101320-0001_RD_Schematic.PDF
+|       101320-0001_RD_source.zip
+|       101320-B001_RC_fab.zip
+|       
++---101320-0001_RE_CCA
+|       101320-0001_RD_Assembly.PDF
+|       101320-0001_RD_source.zip
+|       101320-0001_RE_BOM.pdf
+|       101320-0001_RE_BOM.xlsx
+|       101320-0001_RE_Schematic.PDF
+|       101320-B001_RC_fab.zip
+|       
++---101337-0001 Rev XC RIU PCB Assy
+|       101337-0001 Rev XC RIU PCB BOM.pdf
+|       Riu2_101336-0001_xb_050605.ZIP
+|       
++---101337-0002 Rev RB RIU PCB Assy
+|       101337-0002 Rev RB RIU PCB BOM.pdf
+|       101337-0002 Rev RB RIU PCB BOM.xls
+|       Riu_pn101336_Rev RA_fabpkg.zip
+|       
++---101337-0002 Rev RC RIU PCB Assy
+|       101337-0002 Rev RC RIU PCB BOM.pdf
+|       101337-0002 Rev RC RIU PCB BOM.xls
+|       Riu_pn101336_Rev RA_fabpkg.zip
+|       
++---101337-0002_RE_CCA
+|       101337-0002 Rev RE RIU PCB BOM.xls
+|       101337-0002_RE_BOM.pdf
+|       Riu_pn101336_Rev RA_fabpkg.zip
+|       
++---101340-0001 Rev XC AIU PCB Assy
+|       101340-0001 Rev XC AIU PCB BOM.pdf
+|       Aiu2_101339-0001_xb_050605.ZIP
+|       
++---101340-0003 Rev RA AIU PCB Assy
+|       101339-0002_Rev RA_fabpkg.ZIP
+|       101340-0003 Rev RA AIU PCB BOM.pdf
+|       101340-0003 Rev RA AIU PCB BOM.xls
+|       
++---101340-0003 Rev RB AIU PCB Assy
+|       101339-0002_Rev RA_fabpkg.ZIP
+|       101340-0003 Rev RB AIU PCB BOM.pdf
+|       101340-0003 Rev RB AIU PCB BOM.xls
+|       
++---101340-0003_RC_CCA
+|       101339-0002_RA_FAB.ZIP
+|       101340-0003 Rev RC AIU PCB BOM.xls
+|       101340-0003_RC_BOM.pdf
+|       
++---101340-0003_RD_CCA
+|       101339-0002_RA_FAB.ZIP
+|       101340-0003 Rev RC AIU PCB BOM.xls
+|       101340-0003_RD_BOM.pdf
+|       
++---101365-0001_RA_CCA
+|       101194-0002.zip
+|       101365-0001 Rev RA DC Base BOM.xls
+|       101365-0001_RA_BOM.pdf
+|       
++---101522-2001 Rev RA RM AIU 2U Backplane CCA
+|       101521-2001_RA.zip
+|       101522-2001 Rev RA AIU 2U BP CCA BOM.xls
+|       
++---101522-2001_RB_CCA
+|       101521-2001_RB_CAM.zip
+|       101522-2001 Rev RB AIU 2U BP CCA BOM.xls
+|       101522-2001_RB_BOM.pdf
+|       101522-2001_RB_Schematic.pdf
+|       
++---101522-2001_RC_CCA
+|       101522-2001 Rev RC AIU 2U BP CCA BOM.xls
+|       101522-2001_RC_BOM.pdf
+|       101522-2001_RC_Schematic.pdf
+|       Rework instructions for101522-2001.docx
+|       Rework instructions for101522-2001.pdf
+|       Rework Pic.jpg
+|       
++---101522-2001_RD_CCA
+|       101522-2001_RD_BOM.pdf
+|       101522-2001_RD_BOM.xls
+|       101522-2001_RD_schematic.pdf
+|       101522-2001_RD_source.zip
+|       101522-B002_RC_fab.zip
+|       
++---101522-3001 Rev RA RM AIU 3U Backplane CCA
+|       101521-3001_RA.zip
+|       101522-3001 Rev RA AIU 3U BP CCA BOM.xls
+|       
++---101522-3001_RB_CCA
+|   |   101521-3001_RB_CAM.zip
+|   |   101522-3001 Rev RB AIU 3U BP CCA BOM.xls
+|   |   101522-3001_RB_BOM.pdf
+|   |   101522-3001_RB_Schematic.pdf
+|   |   
+|   \---101521-3001_RB_CAM
+|           101521-3001_RB.apr
+|           101521-3001_RB.DRL
+|           101521-3001_RB.DRR
+|           101521-3001_RB.G1
+|           101521-3001_RB.G14
+|           101521-3001_RB.G2
+|           101521-3001_RB.G3
+|           101521-3001_RB.GBL
+|           101521-3001_RB.GBO
+|           101521-3001_RB.GBS
+|           101521-3001_RB.GD1
+|           101521-3001_RB.GG1
+|           101521-3001_RB.GKO
+|           101521-3001_RB.GM1
+|           101521-3001_RB.GTL
+|           101521-3001_RB.GTO
+|           101521-3001_RB.GTS
+|           101521-3001_RB.gwk
+|           101521-3001_rb.rck
+|           101521-3001_RB.TXT
+|           README.TXT
+|           
++---101522-3001_RC_CCA
+|       101522-3001 Rev RC AIU 3U BP CCA BOM.xls
+|       101522-3001_RC_BOM.pdf
+|       101522-3001_RC_Schematic.pdf
+|       Rework instructions for101522-3001.docx
+|       Rework instructions for101522-3001.pdf
+|       
++---101522-3001_RD_CCA
+|       101522-3001_RD_BOM.pdf
+|       101522-3001_RD_BOM.xls
+|       101522-3001_RD_schematic.pdf
+|       101522-3001_RD_source.zip
+|       101522-B003_RC_fab.zip
+|       
++---101522-3002_RA_CCA
+|       101521-3001_RB_CAM.zip
+|       101522-3002 Rev RA AIU 3U BP CCA BOM.xls
+|       101522-3002_RA_BOM.pdf
+|       
++---101522-5001_RA_CCA
+|       101521-5001_RA.zip
+|       101522-5001 Rev RA AIU 5U BP CCA BOM.xls
+|       101522-5001_RA_BOM.pdf
+|       
++---101522-5001_RD_CCA
+|       101522-5001_RD_BOM.xls
+|       101522-5001_RD_schematic.pdf
+|       101522-5001_RD_source.zip
+|       101522-B005_RC_fab.zip
+|       
++---101524-0001_RA_CCA
+|       101523-0001_RA.zip
+|       101524-0001 Rev RA HPS CCA BOM 1.xls
+|       101524-0001 Rev RA HPS CCA BOM.xls
+|       101524-0001_RA_BOM 1.pdf
+|       101524-0001_RA_BOM.pdf
+|       101524-0001_RA_Schematic.pdf
+|       
++---101535-0001 Rev RA RM RIU 1U Backplane CCA
+|       101535-0001_RA.zip
+|       101536-0001 Rev RA RIU 1U BP CCA BOM.xls
+|       
++---101535-2001 Rev RA RM RIU 2U Backplane CCA
+|       101535-2001_RA.zip
+|       101536-2001 Rev RA RIU 2U BP CCA BOM.xls
+|       
++---101535-2001 Rev RB RM RIU 2U Backplane CCA
+|       101535-2001_RB_CAM.zip
+|       101536-2001 Rev RB RIU 2U BP CCA BOM.xls
+|       
++---101535-3001 Rev RA RM RIU 3U Backplane CCA
+|       101535-3001_RA.zip
+|       101536-3001 Rev RA RIU 3U BP CCA BOM.xls
+|       
++---101535-3001 Rev RB RM RIU 3U Backplane CCA
+|       101535-3001_RB_CAM.zip
+|       101536-3001 Rev RB RIU 3U BP CCA BOM.xls
+|       
++---101542-0001_RA_CCA
+|       101541-0001_RA.zip
+|       101542-0001 Rev RA PS CCA BOM.xls
+|       101542-0001_RA_BOM.pdf
+|       101542-0001_RA_Schematic.pdf
+|       
++---101542-0001_RB_CCA
+|       101541_0001_RB_Fab.zip
+|       101542-0001 Rev RB PS CCA BOM.xls
+|       101542-0001_RB_BOM.pdf
+|       101542-0001_RB_Schematic.pdf
+|       101542-0001_RB_source.zip
+|       
++---101542-0002_RA_CCA
+|       101541-0001_RA.zip
+|       101542-0001 Rev RA PS CCA BOM.xls
+|       101542-0001_RA_BOM.pdf
+|       101542-0002_RA_Schematic.pdf
+|       
++---101552-0001 Rev RA Power Filter CCA
+|       101551-0001_RA.zip
+|       101552-0001 Rev RA PF CCA BOM.xls
+|       
++---101552-0001_RB_CCA
+|       101551-0001_RB.zip
+|       101552-0001 Rev RB PF CCA BOM.xls
+|       101552-0001_RB_BOM.pdf
+|       101552-0001_RB_Schematic.pdf
+|       
++---101564-0001 Rev RB LOS Sw CCA
+|       101563-0001_RB.zip
+|       101564-0001 Rev RB LOS Switch BOM.xls
+|       
++---101564-0001_RC_CCA
+|       101563-0001_RB.zip
+|       101564-0001 Rev RC LOS Switch BOM.xls
+|       101564-0001_RC_BOM.pdf
+|       101564-0001_RC_Schematic.pdf
+|       
++---101605-0001 Rev RA ARL User Manual
+|       SC2 User Guide ARL.ppt
+|       
++---101626-0001 Rev RA SatCom Sw CCA
+|       101626-0001 Rev RA SC Switch BOM.xls
+|       
++---101626-0001 Rev RD SatCom Sw CCA
+|       101625-0001_RB.zip
+|       101626-0001 Rev RD SC Switch BOM.xls
+|       
++---101626-0001 Rev RE SatCom Sw CCA
+|       101625-0001_RB.zip
+|       101626-0001 Rev RE SC Switch BOM.xls
+|       
++---101626-0001_RF_CCA
+|       101625-0001_RB.zip
+|       101626-0001 Rev RF SC Switch BOM.xls
+|       101626-0001_RF_BOM.pdf
+|       
++---101855-0001_RA_CCA
+|   |   101855-0001 Rev RA RIU 1U BP CCA BOM.xls
+|   |   101855-0001_RA_BOM.pdf
+|   |   101855-0001_RA_Schematic.pdf
+|   |   101856-0001_RA.zip
+|   |   
+|   \---101855-2001_RA_CCA
++---101855-0001_RB_CCA
+|   |   101855-0001 Rev RA RIU 1U BP CCA BOM.xls
+|   |   101855-0001_RB_BOM.pdf
+|   |   101855-0001_RB_Schematic.pdf
+|   |   101856-0001_RA.zip
+|   |   Rework instructions for 101855-0001.docx
+|   |   Rework instructions for 101855-0001.pdf
+|   |   Rework instructions for 101855-2001.pdf
+|   |   
+|   \---101855-2001_RA_CCA
++---101855-0001_RC_CCA
+|       101855-0001_RC_BOM.pdf
+|       101855-0001_RC_BOM.xls
+|       101855-0001_RC_schematic.pdf
+|       101855-0001_RC_source.zip
+|       101855-B001_RA_Fab.zip
+|       
++---101855-2001_RA_CCA
+|       101855-2001 Rev RA RIU 2U BP CCA BOM.xls
+|       101855-2001_RA_BOM.pdf
+|       101855-2001_RA_Schematic.pdf
+|       101856-2001_RA.zip
+|       
++---101855-2001_RB_CCA
+|       101855-2001 Rev RB RIU 2U BP CCA BOM.xls
+|       101855-2001_RA_Schematic.pdf
+|       101855-2001_RB_BOM.pdf
+|       101855-2001_RB_Schematic.pdf
+|       101856-2001_RA.zip
+|       Rework instructions for 101855-2001.docx
+|       Rework instructions for 101855-2001.pdf
+|       
++---101855-2001_RC_CCA
+|       101855-0001_RC_Assy_Notes.pdf
+|       101855-2001_RC_BOM.pdf
+|       101855-2001_RC_BOM.xls
+|       101855-2001_RC_schematic.pdf
+|       101855-2001_RC_source.zip
+|       101855-B002_RA_Fab.zip
+|       
++---101855-3001_RA_CCA
+|       101855-3001 Rev RA RIU 3U BP CCA BOM.xls
+|       101855-3001_RA_BOM.pdf
+|       101855-3001_RA_Schematic.pdf
+|       101856-3001_RA.zip
+|       
++---101855-3001_RB_CCA
+|   |   .DS_Store
+|   |   101855-3001 Rev RB RIU 3U BP CCA BOM.xls
+|   |   101855-3001_RB_BOM.pdf
+|   |   101855-3001_RB_Schematic.pdf
+|   |   101856-3001_RA.zip
+|   |   Rework instructions for 101855-3001.docx
+|   |   Rework instructions for 101855-3001.pdf
+|   |   
+|   \---101856-3001_RA
+|           101856-3001_RA.apr
+|           101856-3001_RA.DRL
+|           101856-3001_RA.DRR
+|           101856-3001_RA.G1
+|           101856-3001_RA.G14
+|           101856-3001_RA.G2
+|           101856-3001_RA.G3
+|           101856-3001_RA.GBL
+|           101856-3001_RA.GBO
+|           101856-3001_RA.GBP
+|           101856-3001_RA.GBS
+|           101856-3001_RA.GD1
+|           101856-3001_RA.GG1
+|           101856-3001_RA.GKO
+|           101856-3001_RA.GM1
+|           101856-3001_RA.GM2
+|           101856-3001_RA.GPB
+|           101856-3001_RA.GPT
+|           101856-3001_RA.GTL
+|           101856-3001_RA.GTO
+|           101856-3001_RA.GTP
+|           101856-3001_RA.GTS
+|           101856-3001_RA.gwk
+|           101856-3001_RA.PCB
+|           101856-3001_RA.REP
+|           101856-3001_RA.TXT
+|           README.TXT
+|           Status Report.txt
+|           
++---101855-3001_RC_CCA
+|       101855-3001 Rev RC RIU 3U BP CCA BOM.xls
+|       101855-3001_RC_BOM.pdf
+|       101855-3001_RC_schematic.pdf
+|       101855-3001_RC_source.zip
+|       101855-B003_RA_Fab.zip
+|       Revised Fab Notes.docx
+|       
++---101857-0001_RA_CCA
+|       101857-0001 Rev RA Power Filter BOM.xls
+|       101857-0001_RA_BOM.pdf
+|       101857-0001_RA_SCHEMATIC.pdf
+|       101858-0001_RB.zip
+|       
++---101857-0002_RA_CCA
+|       101857-0002 Rev RA Power Filter BOM.xls
+|       101857-0002_RA_BOM.pdf
+|       101858-0001_RB.zip
+|       
++---101857-0003_RA_CCA
+|       101857-0003_RA (12-7-2011 4-53-46 PM).zip
+|       101857-0003_RA_BOM.pdf
+|       101857-0003_RA_BOM.xlsx
+|       101857-0003_RA_Schematic.pdf
+|       101857-B003_RA_FAB.zip
+|       
++---101857-0003_RB_CCA
+|       101857-0003_RB_Assembly.PDF
+|       101857-0003_RB_BOM.pdf
+|       101857-0003_RB_BOM.xlsx
+|       101857-0003_RB_Schematic.PDF
+|       101857-0003_RB_source.zip
+|       101857-B003_RB_fab.zip
+|       
++---101857-0003_RC_CCA
+|       101857-0003_RC_BOM.pdf
+|       101857-0003_RC_BOM.xlsx
+|       101857-0003_RC_schematic.pdf
+|       101857-0003_RC_source.zip
+|       101857-B003_RC_fab.zip
+|       
++---101860-0001 Rev RA CPM CCA
+|       101860-0001 Rev RA CPM CCA BOM.xls
+|       101861-0001_RA.zip
+|       
++---101860-0001_ RB_CCA
+|       101860-0001 Rev RB CPM CCA BOM.xls
+|       101861-0001_RB.gwk
+|       101861-0001_RB_112810_FAB.zip
+|       101861-0001_RB_112810_Padsdb.zip
+|       
++---101860-0001_RC_CCA
+|       101860-0001 Rev RC CPM CCA BOM.xls
+|       101860-0001_RC_BOM.pdf
+|       101861-0001_RC_FAB.zip
+|       
++---101860-0001_RD_CCA
+|       101860-0001_RD_BOM.pdf
+|       101860-0001_RD_BOM.xls
+|       101860-0001_RD_schematic.pdf
+|       101860-0001_RD_source.zip
+|       101860-B001_RD_fab.zip
+|       
++---101860-0002_RC_CCA
+|       101860-0002 Rev RC CPM CCA BOM.xls
+|       101860-0002_RC_BOM.pdf
+|       101861-0001_RC_FAB.zip
+|       
++---101860-0002_RD_CCA
+|       101860-0002_RD_BOM.pdf
+|       101860-0002_RD_BOM.xls
+|       101860-0002_RD_schematic.pdf
+|       101860-0002_RD_source.zip
+|       101860-B001_RD_assembly.pdf
+|       101860-B001_RD_fab.zip
+|       
++---101914-0001 Rev RA Switch driver
+|   |   101913-0001_RA_FAB.zip
+|   |   101914-0001_RA_BOM.xls
+|   |   101914-0001_RA_Scematic.pdf
+|   |   
+|   \---101914-0001_RA_Source
+|           101914-0001_RA.DSN
+|           
++---101987-0001_RB_CCA
+|       101987-B001_RB_FAB.zip
+|       
++---102111-0001_RA_CCA
+|       102111-0001_RA_BOM.xls
+|       102111-0001_RA_Schematic.pdf
+|       102111-0001_RA_source.zip
+|       102111-B001_RA_062510.brd
+|       102111-B001_RA_FAB.zip
+|       102111-B001_RA_FAB_062510.zip
+|       102111-B001_RA_source.zip
+|       
++---102111-0001_RB_CCA
+|       102111-0001_RB_BOM.pdf
+|       102111-0001_RB_BOM.xls
+|       102111-0001_RB_Schematic.pdf
+|       102111-B001_RA_FAB.zip
+|       102111-B001_RA_source.zip
+|       U28 Mod.jpg
+|       
++---102111-0001_RC_CCA
+|       102111-0001_RC_BOM.pdf
+|       102111-0001_RC_BOM.xls
+|       102111-0001_RC_Schematic.pdf
+|       102111-B001_RA_FAB.zip
+|       102111-B001_RA_source.zip
+|       U28 Mod.jpg
+|       
++---102111-0001_RD_CCA
+|       102111-0001_RD_BOM.pdf
+|       102111-0001_RD_BOM.xls
+|       102111-0001_RD_Schematic.pdf
+|       102111-B001_RA_FAB.zip
+|       102111-B001_RA_source.zip
+|       U28 Mod.jpg
+|       
++---102111-0001_RE_CCA
+|       102111-0001_RE_BOM.pdf
+|       102111-0001_RE_BOM.xls
+|       102111-0001_RE_schematic.pdf
+|       102111-0001_RE_source.zip
+|       102111-B001_RB_assembly.pdf
+|       102111-B001_RB_fab.zip
+|       
++---102111-0002_RB_CCA
+|       102111 U28 Mod.jpg
+|       102111-0002_RB_BOM.pdf
+|       102111-0002_RB_BOM.xls
+|       102111-0002_RB_Schematic.pdf
+|       102111-B001_RA_FAB.zip
+|       102111-B001_RA_source.zip
+|       
++---102111-0002_RC_CCA
+|       102111 U28 Mod.jpg
+|       102111-0002_RC_BOM.pdf
+|       102111-0002_RC_BOM.xls
+|       102111-0002_RC_Schematic.pdf
+|       102111-B001_RA_FAB.zip
+|       102111-B001_RA_source.zip
+|       
++---102111-0002_RD_CCA
+|       102111-0001-2_RD_BOM_COMPARE.xls
+|       102111-0002_RD_BOM.pdf
+|       102111-0002_RD_BOM.xls
+|       102111-0002_RD_Schematic.pdf
+|       102111-B001_RA_FAB.zip
+|       102111-B001_RA_source.zip
+|       
++---102111-0002_RE_CCA
+|       102111-0002_RE_BOM.pdf
+|       102111-0002_RE_BOM.xls
+|       102111-0002_RE_schematic.pdf
+|       102111-0002_RE_source.zip
+|       102111-B001_RB_assembly.pdf
+|       102111-B001_RB_fab.zip
+|       
++---102112-0001_RA_CCA
+|       102112-0001_RA_Source.zip
+|       102112-B001_RA_FAB.zip
+|       
++---102112-0001_RB_CCA
+|       102112-0001_RB_BOM.xls
+|       102112-0001_RB_Schematic.pdf
+|       102112-0001_RB_source.zip
+|       102112-B001_RB_FAB.zip
+|       
++---102112-0001_RD_CCA
+|   |   102112-0001_RD_BOM.pdf
+|   |   102112-0001_RD_BOM.xlsx
+|   |   102112-0001_RD_Schematic.pdf
+|   |   EC-NA-1134.docx
+|   |   
+|   +---102112-0001_RD_SOURCE
+|   |   |   102112-0001_RD.PcbLib
+|   |   |   102112-0001_RD.PrjPCB
+|   |   |   102112-0001_RD.PrjPCBStructure
+|   |   |   102112-0001_RD.SchLib
+|   |   |   102112-B001_RC.PcbDoc
+|   |   |   Sheet01_CONNECTORS.SchDoc
+|   |   |   Sheet02_CODEC.SchDoc
+|   |   |   Sheet03_DIGITAL.SchDoc
+|   |   |   Sheet04_HSAD.SchDoc
+|   |   |   Sheet05_HSDA.SchDoc
+|   |   |   Sheet06_PTT.SchDoc
+|   |   |   Sheet07_RS232-I^2C.SchDoc
+|   |   |   Sheet08_RS4XX.SchDoc
+|   |   |   Sheet09_REVISIONS.SchDoc
+|   |   |   
+|   |   \---Project Outputs for 102112-0001_RD
+|   |           102112-0001_RD_HS_MUX_External_Interface.OutJob
+|   |           102112-B001_RC_Gerber.Cam
+|   |           102112-B001_RC_NCDrill.Cam
+|   |           
+|   \---102112-B001_RC_FAB
+|       |   102112-B001_RC.gwk
+|       |   102112-B001_RC.PcbDoc
+|       |   102112-B001_RC_Bottom_for_Assy.pdf
+|       |   102112-B001_RC_Drill_Drawing.pdf
+|       |   102112-B001_RC_FAB.zip
+|       |   102112-B001_RC_Top_for_Assy.pdf
+|       |   ReadMe.txt
+|       |   
+|       +---Gerber Output
+|       |       102112-B001_RC-macro.APR_LIB
+|       |       102112-B001_RC.apr
+|       |       102112-B001_RC.EXTREP
+|       |       102112-B001_RC.G1
+|       |       102112-B001_RC.G2
+|       |       102112-B001_RC.GBL
+|       |       102112-B001_RC.GBO
+|       |       102112-B001_RC.GBP
+|       |       102112-B001_RC.GBS
+|       |       102112-B001_RC.GD1
+|       |       102112-B001_RC.GG1
+|       |       102112-B001_RC.GKO
+|       |       102112-B001_RC.GM1
+|       |       102112-B001_RC.GP1
+|       |       102112-B001_RC.GP2
+|       |       102112-B001_RC.GPB
+|       |       102112-B001_RC.GPT
+|       |       102112-B001_RC.GTL
+|       |       102112-B001_RC.GTO
+|       |       102112-B001_RC.GTP
+|       |       102112-B001_RC.GTS
+|       |       102112-B001_RC.REP
+|       |       102112-B001_RC.RUL
+|       |       Status Report.Txt
+|       |       
+|       +---NC Drill Output
+|       |       102112-B001_RC.DRL
+|       |       102112-B001_RC.DRR
+|       |       102112-B001_RC.LDP
+|       |       102112-B001_RC.TXT
+|       |       Status Report.Txt
+|       |       
+|       \---Pick Place Output
+|               Pick Place for 102112-B001_RC.csv
+|               Pick Place for 102112-B001_RC.txt
+|               Status Report.Txt
+|               
++---102112-0001_RE_CCA
+|   |   102112-0001_RE_BOM.pdf
+|   |   102112-0001_RE_BOM.xlsx
+|   |   Rework instructions for 102112-0001 RE.docx
+|   |   Rework instructions for 102112-0001 RE.pdf
+|   |   
+|   \---New folder
++---102112-0001_RF_CCA
+|   |   102112-0001_RF_BOM.pdf
+|   |   102112-0001_RF_BOM.xlsx
+|   |   102112-0001_RF_schematic.pdf
+|   |   102112-0001_RF_source.zip
+|   |   102112-B001_RD_assy.pdf
+|   |   102112-B001_RD_fab.zip
+|   |   
+|   \---102112-0001_RF_source
+|       |   102112-0001_RF.PrjPCB
+|       |   102112-0001_RF.PrjPCBStructure
+|       |   102112-0001_RF.SchLib
+|       |   102112-B001_RD.PcbDoc
+|       |   102112-B001_RD.PcbLib
+|       |   Sheet01_CONNECTORS.SchDoc
+|       |   Sheet02_CODEC.SchDoc
+|       |   Sheet03_DIGITAL.SchDoc
+|       |   Sheet04_HSAD.SchDoc
+|       |   Sheet05_HSDA.SchDoc
+|       |   Sheet06_PTT.SchDoc
+|       |   Sheet07_RS232-I^2C.SchDoc
+|       |   Sheet08_RS4XX.SchDoc
+|       |   Sheet09_REVISIONS.SchDoc
+|       |   
+|       \---Project Outputs for 102112-0001_RF
+|           |   102112-0001_RF_BOM.xlsx
+|           |   102112-0001_RF_schematic.pdf
+|           |   102112-B001_RD.gwk
+|           |   102112-B001_RD_assy.pdf
+|           |   Design Rule Check - 102112-B001_RD.html
+|           |   drillPrevue.Cam
+|           |   gerberPrevue.Cam
+|           |   
+|           +---Gerber Output
+|           |       102112-B001_RD.EXTREP
+|           |       102112-B001_RD.G1
+|           |       102112-B001_RD.G2
+|           |       102112-B001_RD.GBL
+|           |       102112-B001_RD.GBO
+|           |       102112-B001_RD.GBP
+|           |       102112-B001_RD.GBS
+|           |       102112-B001_RD.GD1
+|           |       102112-B001_RD.GM1
+|           |       102112-B001_RD.GM2
+|           |       102112-B001_RD.GP1
+|           |       102112-B001_RD.GP2
+|           |       102112-B001_RD.GTL
+|           |       102112-B001_RD.GTO
+|           |       102112-B001_RD.GTP
+|           |       102112-B001_RD.GTS
+|           |       102112-B001_RD.REP
+|           |       102112-B001_RD.RUL
+|           |       
+|           +---NC Drill Output
+|           |       102112-B001_RD-RoundHoles.TXT
+|           |       102112-B001_RD-SlotHoles.TXT
+|           |       102112-B001_RD.DRR
+|           |       102112-B001_RD.LDP
+|           |       
+|           \---Pick Place Output
+|                   Pick Place for 102112-B001_RD.csv
+|                   Pick Place for 102112-B001_RD.txt
+|                   
++---102126-0001_RA_CCA
+|       102126-0001_RA_BOM.xls
+|       102126-0001_RA_Schematic.pdf
+|       102126-0001_RA_Source.zip
+|       102126-B001_RA_Fab.zip
+|       102126-B001_RB_FAB.zip
+|       
++---102126-0001_RB_CCA
+|       102126-0001_RA_Source.zip
+|       102126-0001_RB_BOM.pdf
+|       102126-0001_RB_BOM.xls
+|       102126-0001_RB_Schematic a.pdf
+|       102126-0001_RB_Schematic.pdf
+|       102126-B001_RB_FAB.zip
+|       
++---102126-1001_RB_CCA
+|       102126-0001_RA_Source.zip
+|       102126-1001_RB_BOM.pdf
+|       102126-1001_RB_BOM.xls
+|       102126-1001_RB_Schematic.pdf
+|       102126-B001_RB_FAB.zip
+|       
++---102126-1001_RC_CCA
+|       102126-1001_RC_BOM.pdf
+|       102126-1001_RC_BOM.xls
+|       102126-1001_RC_Schematic.pdf
+|       102126-1001_RC_Source.zip
+|       102126-B001_RC_fab.zip
+|       
++---102132-0001_RA_CCA
+|       102132-0001_RA_BOM.pdf
+|       102132-0001_RA_BOM.xls
+|       102132-B001_RA_FAB.zip
+|       102132_0001_RA_Schematic.pdf
+|       102132_0001_RA_Source.zip
+|       
++---102139-0001_RA_CCA
+|       102139-0001_RA_BOM.xls
+|       102139-0001_RA_Schematic.pdf
+|       102139-0001_RA_Source.zip
+|       102139-B001_RA_FAB.zip
+|       
++---102194-0001_RA_CCA
+|   +---102194-0001_RA_Source
+|   |       Doc.PDF
+|   |       PCB1.GKO
+|   |       PCB1.GTL
+|   |       PCB1.GTO
+|   |       PCB1.GTS
+|   |       
+|   \---102194-B001_RA_FAB
+|       |   Doc.OutJob
+|       |   PCB1.DRL
+|       |   PCB1.DRR
+|       |   PCB1.EXTREP
+|       |   PCB1.GKO
+|       |   PCB1.GTL
+|       |   PCB1.GTO
+|       |   PCB1.GTS
+|       |   PCB1.LDP
+|       |   PCB1.PcbDoc
+|       |   PCB1.REP
+|       |   PCB1.RUL
+|       |   PCB1.TXT
+|       |   PcbLib1.PcbLib
+|       |   PCB_Project1.PrjPCB
+|       |   PCB_Project1.PrjPCBStructure
+|       |   Pick Place for PCB1.txt
+|       |   Schlib1.SchLib
+|       |   Sheet1.SchDoc
+|       |   
+|       \---Project Outputs for PCB_Project1
+|               Design Rule Check - PCB1.drc
+|               Design Rule Check - PCB1.html
+|               Doc.PDF
+|               Status Report.Txt
+|               
++---102223-0001_RA_CCA
+|       102223-0001_RA_BOM.xls
+|       102223-0001_RA_Schematic.pdf
+|       102223-B001_RA_FAB.zip
+|       
++---102450-0001_RA_CCA
+|       102450-0001_RA (12-8-2011 2-57-16 PM).zip
+|       102450-0001_RA_BOM.pdf
+|       102450-0001_RA_BOM.xlsx
+|       102450-0001_RA_Schematic.pdf
+|       102450-B001_RA_FAB.zip
+|       102450-B001_RA_Mechanical.zip
+|       
++---102450-0001_RB_CCA
+|       102450-0001_RB_assembly.PDF
+|       102450-0001_RB_BOM.pdf
+|       102450-0001_RB_BOM.xlsx
+|       102450-0001_RB_schematic.PDF
+|       102450-0001_RB_source.zip
+|       102450-B001_RB_fab.zip
+|       
++---102684-0001_RA_CCA
+|       102684-0001_RA_Assembly.PDF
+|       102684-0001_RA_BOM.xlsx
+|       102684-0001_RA_Schematic.PDF
+|       102684-0001_RA_source.zip
+|       102684-B001_RA_fab.zip
+|       
++---102684-0001_RB_CCA
+|       102684-0001_RB_BOM.pdf
+|       102684-0001_RB_BOM.xlsx
+|       102684-0001_RB_Schematic.PDF
+|       
++---102684-0001_RC_CCA
+|       102684-0001 RC rework_2014-01-15.docx
+|       102684-0001 RC rework_2014-01-15.pdf
+|       102684-0001 RC rework_2014-02-07.docx
+|       102684-0001 RC rework_2014-02-07.pdf
+|       102684-0001 RC rework_2014-02-11.docx
+|       102684-0001 RC rework_2014-02-11.pdf
+|       102684-0001 RC rework_2014-02-21.docx
+|       102684-0001 RC rework_2014-02-21.pdf
+|       102684-0001_RB_Rework_locator.PDF
+|       102684-0001_RC_BOM.pdf
+|       102684-0001_RC_BOM.xlsx
+|       
++---102684-0001_RE_CCA
+|       102684-0001_RE_Assy.PDF
+|       102684-0001_RE_BOM.pdf
+|       102684-0001_RE_BOM.xlsx
+|       102684-0001_RE_Schematic.PDF
+|       102684-0001_RE_source.zip
+|       102684-B001_RB_fab.zip
+|       
++---102684-0001_RF_CCA
+|       102684-0001_RF_BOM.xls
+|       102684-0001_RF_Schematic.PDF
+|       102684-0001_RF_Source.zip
+|       102684-B001_RB_fab.zip
+|       EC-NA-1207.pdf
+|       
++---102684-0001_RG_CCA
+|       102684-0001_RG_BOM.xls
+|       102684-0001_RG_Schematic.PDF
+|       102684-0001_RG_Source.zip
+|       102684-B001_RB_fab.zip
+|       
++---102684-0001_RH_CCA
+|       102684-0001_RH_BOM.xls
+|       102684-0001_RH_Schematic.PDF
+|       102684-0001_RH_source.zip
+|       Rework IAW EC_NA_1266 - Rev RG to Rev RH.docx
+|       Rework IAW EC_NA_1266 - Rev RG to Rev RH.pdf
+|       
++---102684-0001_RI_CCA
+|       Rework IAW EC_NA_1277 - Rev RH to Rev RI.docx
+|       Rework IAW EC_NA_1277 - Rev RH to Rev RI.pdf
+|       
++---102684-0001_RJ_CCA
+|       Rework instructions for FORAX-LS 0001 RG-RJ.pdf
+|       Rework instructions for FORAX-LS 0001 RJ 10-7-2016.docx
+|       Rework instructions for FORAX-LS 0001 RJ 10-7-2016.pdf
+|       
++---102684-0002_RA_CCA
+|       102684-0002_RA_BOM.pdf
+|       102684-0002_RA_BOM.xls
+|       102684-0002_RA_Fab.zip
+|       102684-0002_RA_Schematic.PDF
+|       102684-0002_RA_Source.zip
+|       
++---102684-0002_RB_CCA
+|       102684-0002_RA_BOM.xls
+|       102684-0002_RA_Fab.zip
+|       102684-0002_RA_Schematic.PDF
+|       102684-0002_RA_Source.zip
+|       102684-0002_RB_BOM.pdf
+|       102684-0002_RB_Schematic.PDF
+|       Delta Rework instructions for FORAX-LS 0002 RB 6-17-2016.docx
+|       Delta Rework instructions for FORAX-LS 0002 RB 6-17-2016.pdf
+|       Delta Rework instructions for FORAX-LS 0002 RB 8-1-2016.docx
+|       Delta Rework instructions for FORAX-LS 0002 RB 8-1-2016.pdf
+|       Delta Rework instructions for FORAX-LS 0002 RB 8-17-2016.docx
+|       Delta Rework instructions for FORAX-LS 0002 RB 8-17-2016.pdf
+|       Delta Rework instructions for FORAX-LS 0002 RB 8-31-2016.docx
+|       Delta Rework instructions for FORAX-LS 0002 RB 8-31-2016.pdf
+|       Delta Rework instructions for FORAX-LS 0002 RB 9-7-2016a.docx
+|       Delta Rework instructions for FORAX-LS 0002 RB 9-7-2016a.pdf
+|       Rework instructions for FORAX-LS 0002 RB 5-19-2016.docx
+|       Rework instructions for FORAX-LS 0002 RB 5-19-2016.pdf
+|       Rework instructions for FORAX-LS 0002 RB 8-31-2016.docx
+|       Rework instructions for FORAX-LS 0002 RB 9-8-2016.docx
+|       Rework-Delta instructions for FORAX-LS 0002 RB 9-8-16.pdf
+|       
++---102684-0002_RC_CCA
+|       Rework instructions for FORAX-LS 0002 RC 11-1-2016.pdf
+|       
++---102684-0003_RA_CCA
+|   |   .DS_Store
+|   |   102684-0003_RA_BOM.pdf
+|   |   102684-0003_RA_BOM.xlsx
+|   |   102684-0003_RA_Schematic.pdf
+|   |   102684-0003_XA2 1-4-17.xls
+|   |   102684-0003_XA3 1-16-17.xls
+|   |   102684-B003_RA_Fab.zip
+|   |   
+|   +---102684-0003_RA_Source
+|   |   |   102684-0003_RA.OutJob
+|   |   |   102684-0003_RA.pdf
+|   |   |   102684-0003_RA.PrjPcb
+|   |   |   102684-0003_RA.PrjPcbStructure
+|   |   |   102684-0003_RA.PrjPcbVariants
+|   |   |   102684-0003_RA_Boost.SchDoc
+|   |   |   102684-0003_RA_Buck.SchDoc
+|   |   |   102684-0003_RA_Front_End.SchDoc
+|   |   |   102684-0003_RA_Microcontroller.SchDoc
+|   |   |   102684-0003_RA_PA.SchDoc
+|   |   |   102684-0003_RA_Revision_History_1.SchDoc
+|   |   |   102684-0003_RA_Revision_History_2.SchDoc
+|   |   |   102684-0003_RA_RX.SchDoc
+|   |   |   102684-0003_RA_Top_Level.SchDoc
+|   |   |   102684-0003_RA_TX.SchDoc
+|   |   |   102684-B003_RA.PcbDoc
+|   |   |   Job1.OutJob
+|   |   |   
+|   |   \---Project Outputs
+|   |       |   Status Report.Txt
+|   |       |   
+|   |       +---Assembly Drawing
+|   |       |       102684-B003_RA_Assembly_Drawing.pdf
+|   |       |       
+|   |       +---Drill Drawing
+|   |       |       102684-B001_RA_Drill_Drawings.pdf
+|   |       |       102684-B001_RA_Notes_and_Dimensions.pdf
+|   |       |       
+|   |       +---final_files_for_manufacturing
+|   |       |       102684-B003_RA_mfg.zip
+|   |       |       
+|   |       +---Gerber Output
+|   |       |       102684-B003_RA-macro.APR_LIB
+|   |       |       102684-B003_RA.apr
+|   |       |       102684-B003_RA.EXTREP
+|   |       |       102684-B003_RA.G1
+|   |       |       102684-B003_RA.G2
+|   |       |       102684-B003_RA.G3
+|   |       |       102684-B003_RA.G4
+|   |       |       102684-B003_RA.GBL
+|   |       |       102684-B003_RA.GBO
+|   |       |       102684-B003_RA.GBP
+|   |       |       102684-B003_RA.GBS
+|   |       |       102684-B003_RA.GD1
+|   |       |       102684-B003_RA.GD2
+|   |       |       102684-B003_RA.GD3
+|   |       |       102684-B003_RA.GG1
+|   |       |       102684-B003_RA.GG2
+|   |       |       102684-B003_RA.GG3
+|   |       |       102684-B003_RA.GTL
+|   |       |       102684-B003_RA.GTO
+|   |       |       102684-B003_RA.GTP
+|   |       |       102684-B003_RA.GTS
+|   |       |       102684-B003_RA.ipc
+|   |       |       102684-B003_RA.REP
+|   |       |       102684-B003_RA.RUL
+|   |       |       102684-B003_RA_ascii.PcbDoc
+|   |       |       102684-B003_RA_readme.txt
+|   |       |       Status Report.Txt
+|   |       |       
+|   |       +---NC Drill Output
+|   |       |       102684-B003_RA-RoundHoles-NonPlated.TXT
+|   |       |       102684-B003_RA-RoundHoles-Plated.TX1
+|   |       |       102684-B003_RA-RoundHoles-Plated.TX2
+|   |       |       102684-B003_RA-RoundHoles-Plated.TXT
+|   |       |       102684-B003_RA-SlotHoles-Plated.TXT
+|   |       |       102684-B003_RA.DR1
+|   |       |       102684-B003_RA.DR2
+|   |       |       102684-B003_RA.DRL
+|   |       |       102684-B003_RA.DRR
+|   |       |       102684-B003_RA.LDP
+|   |       |       
+|   |       +---ODB Output
+|   |       |       102684-B003_RA.tgz
+|   |       |       
+|   |       \---Pick Place Output
+|   |               Pick Place for 102684-B003_RA.csv
+|   |               Pick Place for 102684-B003_RA.txt
+|   |               
+|   \---102684-B003_RA_Fab
+|           102684-B001_RA_Drill_Drawings.pdf
+|           102684-B001_RA_Notes_and_Dimensions.pdf
+|           102684-B003_RA-RoundHoles-NonPlated.TXT
+|           102684-B003_RA-RoundHoles-Plated.TX1
+|           102684-B003_RA-RoundHoles-Plated.TX2
+|           102684-B003_RA-RoundHoles-Plated.TXT
+|           102684-B003_RA-SlotHoles-Plated.TXT
+|           102684-B003_RA.DR1
+|           102684-B003_RA.DR2
+|           102684-B003_RA.DRL
+|           102684-B003_RA.DRR
+|           102684-B003_RA.G1
+|           102684-B003_RA.G2
+|           102684-B003_RA.G3
+|           102684-B003_RA.G4
+|           102684-B003_RA.GBL
+|           102684-B003_RA.GBO
+|           102684-B003_RA.GBP
+|           102684-B003_RA.GBS
+|           102684-B003_RA.GTL
+|           102684-B003_RA.GTO
+|           102684-B003_RA.GTP
+|           102684-B003_RA.GTS
+|           102684-B003_RA.ipc
+|           102684-B003_RA_Assembly_Drawing.pdf
+|           102684-B003_RA_readme.txt
+|           Pick Place for 102684-B003_RA.csv
+|           Pick Place for 102684-B003_RA.txt
+|           
++---102684-0003_RB_CCA
+|       102684-0003_RB_BOM.pdf
+|       102684-0003_RB_BOM.xlsx
+|       Rework instructions for FORAX-LS 0003 RB 3-30-2017.docx
+|       Rework instructions for FORAX-LS 0003 RB 3-30-2017.pdf
+|       
++---102684-0003_RC_CCA
+|   |   102684-0003_RC_BOM.pdf
+|   |   102684-0003_RC_BOM.xlsx
+|   |   102684-0003_RC_Schematic.pdf
+|   |   102684-B003_RB_FAB.zip
+|   |   
+|   \---102684-0003_RC_schematic
+|           102684-0003_RC_Boost.SchDoc
+|           102684-0003_RC_Buck.SchDoc
+|           102684-0003_RC_Front_End.SchDoc
+|           102684-0003_RC_Microcontroller.SchDoc
+|           102684-0003_RC_PA.SchDoc
+|           102684-0003_RC_Revision_History_1.SchDoc
+|           102684-0003_RC_RX.SchDoc
+|           102684-0003_RC_schematic.pdf
+|           102684-0003_RC_Top_Level.SchDoc
+|           102684-0003_RC_TX.SchDoc
+|           102684-B003_RB_Part Locator_Bottom.jpg
+|           102684-B003_RB_Part Locator_Top.jpg
+|           
++---102684-0003_RD_CCA
+|   |   102684-0003_RD_BOM.pdf
+|   |   102684-0003_RD_BOM.xlsx
+|   |   102684-0003_RD_Schematic.pdf
+|   |   102684-B003_RB_FAB.zip
+|   |   
+|   \---102684-0003_RC_Source
+|           102684-0003_RC_Boost.SchDoc
+|           102684-0003_RC_Buck.SchDoc
+|           102684-0003_RC_Front_End.SchDoc
+|           102684-0003_RC_Microcontroller.SchDoc
+|           102684-0003_RC_PA.SchDoc
+|           102684-0003_RC_Revision_History_1.SchDoc
+|           102684-0003_RC_RX.SchDoc
+|           102684-0003_RC_schematic.pdf
+|           102684-0003_RC_Top_Level.SchDoc
+|           102684-0003_RC_TX.SchDoc
+|           102684-B003_RB_Part Locator_Bottom.jpg
+|           102684-B003_RB_Part Locator_Top.jpg
+|           
++---102684-0003_RE_CCA
+|       102684-0003_RE_BOM.pdf
+|       102684-0003_RE_BOM.xlsx
+|       102684-0003_RE_Schematic.pdf
+|       102684-0003_RE_Source.zip
+|       102684-B003_RC_Fab.zip
+|       
++---102684-0003_RF_CCA
+|       102684-0003_RF_BOM.xlsx
+|       
++---102685-0001_RA_CCA
+|       102685-0001_RA_Assembly.PDF
+|       102685-0001_RA_BOM.xlsx
+|       102685-0001_RA_Schematic.PDF
+|       102685-0001_RA_source.zip
+|       102685-B001_RA_fab.zip
+|       
++---102685-0001_RB_CCA
+|       102685-0001_RB_Assembly.PDF
+|       102685-0001_RB_BOM.xlsx
+|       102685-0001_RB_Schematic.PDF
+|       102685-0001_RB_source.zip
+|       102685-B001_RB_fab.zip
+|       
++---102685-0001_RC_CCA
+|       102685-0001 RC rework_2014-01-15.docx
+|       102685-0001 RC rework_2014-01-15.pdf
+|       102685-0001_RC_BOM.pdf
+|       102685-0001_RC_BOM.xlsx
+|       102685-0001_RC_Rework_locator.PDF
+|       102685-0001_RC_Schematic.PDF
+|       
++---102685-0001_RD_CCA
+|       102685-0001_RD_Assy.PDF
+|       102685-0001_RD_BOM.pdf
+|       102685-0001_RD_BOM.xlsx
+|       102685-0001_RD_Schematic.PDF
+|       102685-0001_RD_source.zip
+|       102685-B001_RC_fab.zip
+|       
++---102685-0001_RE_CCA
+|       102685-0001_RD_Assy.PDF
+|       102685-0001_RD_source.zip
+|       102685-0001_RE_BOM.pdf
+|       102685-0001_RE_BOM.xlsx
+|       102685-0001_RE_Schematic.PDF
+|       102685-B001_RC_fab.zip
+|       
++---102685-0001_RF_CCA
+|   |   102685-0001_RF_BOM.pdf
+|   |   102685-0001_RF_BOM.xlsx
+|   |   102685-0001_RF_Schematic.pdf
+|   |   102685-B001_RD_Fab.zip
+|   |   
+|   \---102685-0001_RF_Source
+|       |   Job1.OutJob
+|       |   REVISIONS_1.SchDoc
+|       |   
+|       \---syntonics_riu
+|           |   syntonics_riu.OutJob
+|           |   syntonics_riu.PrjPcb
+|           |   syntonics_riu.PrjPcbStructure
+|           |   syntonics_riu.SCHLIB
+|           |   
+|           \---History
+|                   syntonics_riu.~(1).PrjPcb.Zip
+|                   
++---102685-0001_RG_CCA
+|       102685-0001_RG_BOM.pdf
+|       102685-0001_RG_BOM.xlsx
+|       102685-0001_RG_Schematic.pdf
+|       Rework instructions RIU Rev RG.docx
+|       Rework instructions RIU Rev RG.pdf
+|       SW rework.jpg
+|       
++---102685-0001_RH_CCA
+|       102685-0001_RH.pdf
+|       102685-0001_RH_BOM.pdf
+|       102685-0001_RH_BOM.xlsx
+|       102685-0001_RH_schematic.pdf
+|       102685-0001_RH_source.zip
+|       102685-B001_RE_assembly.pdf
+|       102685-B001_RE_fab.zip
+|       
++---102685-0001_RJ_CCA
+|       102685-0001_RJ_BOM.pdf
+|       102685-0001_RJ_BOM.xlsx
+|       102685-0001_RJ_schematic.pdf
+|       102685-0001_RJ_source.zip
+|       102685-B001_RF_assembly.pdf
+|       102685-B001_RF_fab.zip
+|       
++---102686-0001_RA_CCA
+|       102686-0001_RA_BOM.xlsx
+|       102686-0001_RA_Schematic.PDF
+|       102686-0001_RA_source.zip
+|       102686-B001_RA_fab.zip
+|       
++---102686-0001_RB_CCA
+|       102686-0001_RB_BOM.pdf
+|       102686-0001_RB_BOM.xlsx
+|       102686-0001_RB_Schematic.PDF
+|       102686-B001_RA_fab.zip
+|       
++---102686-0001_RC_CCA
+|       102686-0001_RC_Assembly.PDF
+|       102686-0001_RC_BOM.pdf
+|       102686-0001_RC_BOM.xlsx
+|       102686-0001_RC_Schematic.PDF
+|       102686-0001_RC_source.zip
+|       102686-B001_RB_fab.zip
+|       
++---102686-0001_RD_CCA
+|       102686-0001_RD_BOM CRI.xlsx
+|       102686-0001_RD_BOM.pdf
+|       102686-0001_RD_BOM.xlsx
+|       102686-0001_RD_Schematic.PDF
+|       102686-B001_RB_fab.zip
+|       Rework IAW EC_NA_1277 - Rev RC to Rev RD.docx
+|       
++---102686-0001_RE_CCA
+|       102686-0001_RE_BOM.pdf
+|       102686-0001_RE_BOM.xlsx
+|       102686-0001_RE_Schematic.PDF
+|       102686-B001_RB_fab.zip
+|       Rework IAW EC_NA_1301 - Rev RD to Rev RE.docx
+|       
++---102686-0001_RF_CCA
+|       102686-0001_RF_BOM.pdf
+|       102686-0001_RF_BOM.xlsx
+|       102686-0001_RF_Schematic.PDF
+|       102686-B001_RB_fab.zip
+|       Rework IAW EC_NA_1301 - Rev RC to Rev RF.docx
+|       Rework IAW EC_NA_1301 - Rev RD to Rev RF.docx
+|       Rework IAW EC_NA_1301 - Rev RE to Rev RF.docx
+|       Rework IAW EC_NA_1301 - Rev RE to Rev RF.pdf
+|       
++---102686-0002_RF_CCA
+|       102686-0002_RF_BOM.xlsx
+|       102686-0002_RF_Schematic.PDF
+|       
++---102842-0001_RA_CCA
+|       102842-0001 _RA_Source.zip
+|       102842-0001_RA_BOM.pdf
+|       102842-0001_RA_BOM.xls
+|       102842-0001_RA_Schematic.PDF
+|       102842-B001_RA_Fab.zip
+|       
++---102842-0001_RB_CCA
+|       102842-0001_RB_BOM.pdf
+|       102842-0001_RB_BOM.xls
+|       102842-0001_RB_Schematic.pdf
+|       102842-0001_RB_source.zip
+|       102842-B001 _RB_FAB.zip
+|       
++---102843-0001_RA_CCA
+|       102843-0001_RA_BOM.pdf
+|       102843-0001_RA_BOM.xlsx
+|       102843-0001_RA_Fab.zip
+|       102843-0001_RA_Schematic.pdf
+|       102843-0001_RA_source.zip
+|       
++---102843-0001_RB_CCA
+|       102843-0001_RA_Fab.zip
+|       102843-0001_RA_source.zip
+|       102843-0001_RB_BOM.pdf
+|       102843-0001_RB_Schematic.pdf
+|       ECR 309 for 102843-0001 Rev RC.docx
+|       Rework Instructions for 102843-0001 Rev RB.pdf
+|       
++---102844-0001_RA_CCA
+|       102844-0001_RA_BOM.pdf
+|       102844-0001_RA_BOM.xls
+|       102844-0001_RA_Schematic.PDF
+|       102844-0001_RA_Source.zip
+|       102844-B001_RA_Fab.zip
+|       
++---102844-0001_RC_CCA
+|       102844-0001_RC_BOM.pdf
+|       102844-0001_RC_BOM.xls
+|       102844-0001_RC_Schematic.pdf
+|       102844-0001_RC_Source.zip
+|       102844-B001_RB_FAB.zip
+|       
++---102845-0001_RA_CCA
+|   |   102845-0001_RA_BOM.pdf
+|   |   102845-0001_RA_BOM.xls
+|   |   102845-0001_RA_Schematic.pdf
+|   |   102845-B001_RA_Fab.zip
+|   |   
+|   \---102845-0001_RA_SOURCE
+|           102845-0001_RA.SchDoc
+|           102845-0001_RA_Power-Filter_4VHF.PrjPcb
+|           102845-B001_RA.PcbDoc
+|           102845-B001_RA.step
+|           
++---102845-0001_RB_CCA
+|   |   102845-0001_RB_BOM 1.xls
+|   |   102845-0001_RB_BOM.pdf
+|   |   102845-0001_RB_BOM.xls
+|   |   102845-0001_RB_Schematic.pdf
+|   |   102845-B001_RA_Fab.zip
+|   |   
+|   \---102845-0001_RA_SOURCE
+|           102845-0001_RA.SchDoc
+|           102845-0001_RA_Power-Filter_4VHF.PrjPcb
+|           102845-B001_RA.PcbDoc
+|           102845-B001_RA.step
+|           
++---102845-0002_RA_CCA
+|   |   102845-0002_RA_Schematic.pdf
+|   |   
+|   \---103283-0001_RA_CCA
+|       |   102845-0002_RA_BOM.xls
+|       |   102845-0002_RA_Schematic.PDF
+|       |   103283-0001_RA_BOM.pdf
+|       |   103283-0001_RA_Schematic.pdf
+|       |   
+|       \---Source
+|           |   102845-0001_RA.rep
+|           |   102845-0001_RA_Power-Filter_4VHF.PrjPcb
+|           |   102845-0002_RA.Dat
+|           |   102845-0002_RA.SchDoc
+|           |   102845-B001_RA.PcbDoc
+|           |   102845-B001_RA.step
+|           |   
+|           \---History
+|                   102845-0001_RA.~(1).SchDoc.Zip
+|                   102845-0001_RA.~(3).SchDoc.Zip
+|                   102845-0001_RA.~(4).SchDoc.Zip
+|                   102845-0001_RA.~(5).SchDoc.Zip
+|                   102845-0001_RA_Power-Filter_4VHF.~(1).PrjPcb.Zip
+|                   102845-0002_RA.~(1).SchDoc.Zip
+|                   102845-0002_RA.~(2).SchDoc.Zip
+|                   
++---102846-0001_RA_CCA
+|       102846-0001_RA_BOM.pdf
+|       102846-0001_RA_BOM.xls
+|       102846-0001_RA_Schematic.PDF
+|       102846-B001_RA_Fab.zip
+|       102846-B001_RA_Source.zip
+|       
++---102847-0001_RA_CCA
+|   |   102847-0001_RA_BOM.xls
+|   |   102847-0001_RA_Schematic.PDF
+|   |   102847-B001_RA_Fab.zip
+|   |   
+|   \---102847-0001_RA_Source
+|           102847-0001_RA.SchDoc
+|           102847-0001_RA_MP_Filter_CCA_4VHF.PDF
+|           102847-B001_RA.PcbDoc
+|           BOM 102847-0001_RA_BOM.xls
+|           
++---102847-0001_RB_CCA
+|       102847-0001_RB_BOM.pdf
+|       102847-0001_RB_BOM.xls
+|       102847-0001_RB_Schematic.pdf
+|       102847-0001_RB_source.zip
+|       102847-B001-RB_assy.pdf
+|       102847-B001_RB_Fab.zip
+|       
++---102847-0001_RC_CCA
+|       102847-0001_RC_BOM.pdf
+|       102847-0001_RC_BOM.xls
+|       102847-0001_RC_Schematic.pdf
+|       102847-B001_RC_FAB.zip
+|       102847-B001_RC_source.zip
+|       
++---102878-0001_RA_CCA
+|   |   102878-0001_RA_BOM.xls
+|   |   102878-0001_RA_Fab.zip
+|   |   102878-0001_RA_Schematic.PDF
+|   |   
+|   \---102878-0001_RA_Source
+|           102878-0001.PrjPcb
+|           102878-0001.SchDoc
+|           102878-0001_RA_BOM.xls
+|           102878-0001_RA_Schematic.PDF
+|           102878-B001.PcbDoc
+|           
++---102894-0001_RA_CCA
+|       102894-0001_RA_BOM.pdf
+|       102894-0001_RA_BOM.xls
+|       Current Source.zip
+|       
++---102899-0001_RA_CCA
+|       102899-0001_RA_BOM.pdf
+|       102899-0001_RA_BOM.xls
+|       102899-0001_RA_FAB.zip
+|       102899-0001_RA_Schematic.pdf
+|       102899-0001_RA_Source.zip
+|       
++---102899-0001_RB_CCA
+|       102899-0001_RA_BOM.pdf
+|       102899-0001_RA_BOM.xls
+|       102899-0001_RA_FAB.zip
+|       102899-0001_RA_Source.zip
+|       102899-0001_RB_Schematic.pdf
+|       Rework IAW EC_NA_1267 - Rev RA to Rev RB.docx
+|       rework_AtoB.docx
+|       
++---103201-0001_RA_CCA
+|       103201-0001-RA_source.zip
+|       103201-0001_RA_BOM.pdf
+|       103201-0001_RA_BOM.xls
+|       103201-0001_RA_Schematic.pdf
+|       103201-B001-RA_FAB.zip
+|       
++---103229-0001_RA_CCA
+|       103229-0001_RA_BOM.pdf
+|       103229-0001_RA_BOM.xls
+|       103229-0001_RA_Schematic.pdf
+|       103229-0001_RA_source.zip
+|       103229-B001_RA_Fab.zip
+|       
++---103229-0001_RB_CCA
+|       103229-0001_RB_BOM Niche.xls
+|       103229-0001_RB_BOM.pdf
+|       103229-0001_RB_BOM.xls
+|       103229-0001_RB_Schematic.pdf
+|       103229-0001_RB_source.zip
+|       103229-B001_RB_FAB.zip
+|       
++---103293-0001_RA_CCA
+|   |   103293-0001_RA_BOM.pdf
+|   |   103293-0001_RA_Schematic.pdf
+|   |   
+|   \---Source
+|           103293-0001_RA_Schematic.sch
+|           103293-B001_RA_FAB.pcb
+|           
++---103293-0001_RB_CCA
+|   \---Source
+|           103293-0001_RB_Schematic.sch
+|           103293-B001_RB_FAB.pcb
+|           103293-B002_RA_FAB.pcb
+|           
++---103294-0001_RA_CCA
+|       103294-0001_RA_BOM.pdf
+|       103294-0001_RA_Schematic.PDF
+|       103294-0001_RA_Source.zip
+|       103294-B001_RA_FAB.zip
+|       
++---103303-0001_RA_CCA
+|   |   103303-0001_RA_Source.zip
+|   |   103303-B001_RA_FAB.zip
+|   |   
+|   \---Info
+|           103303-B001_RA_3Dview.pdf
+|           3U CCA RIU overlay delta.pdf
+|           3U CCA RIU Overlay.pdf
+|           bp front.jpg
+|           bp rear.jpg
+|           
++---103311-0001_RA_CCA
+|   |   103311 Installation.jpg
+|   |   103311 Installation.pdf
+|   |   103311-B001_RA Installation.bmp
+|   |   103311-B001_RA Installation.pcb
+|   |   
+|   \---103311-B001_RA_FAB
+|           103310-0001_RA.sch
+|           103311-B001_RA.pcb
+|           MIF Surfboard REG.bmp
+|           MIF Surfboard REG.dxf
+|           MIF Surfboard REG.emf
+|           
++---103354-0001_RA_CCA
+|       103354-B001_RA_FAB.zip
+|       
++---103354-0002_RA_CCA
+|       103354-0002_RA_ASM_20181219.zip
+|       103354-0002_RA_BOM.xlsx
+|       103354-B002_RA_FAB_20181219.zip
+|       
++---103354-0004_RA_CCA
+|       103354-0004_RA_BOM.xlsx
+|       103354-0004_RA_Fab.zip
+|       103354-0004_RA_Schematic.PDF
+|       103354-0004_RA_Source.zip
+|       
++---103354-0005_RA_CCA
+|       103354-0005_RA_BOM.xlsx
+|       103354-0005_RA_BuildPkg_210503.zip
+|       103354-0005_RA_SCH.PDF
+|       103354-0005_RA_Source.zip
+|       
++---103355-0001_RA_CCA
+|       103355-0001-RA Source.zip
+|       103355-0001_RA_BOM.pdf
+|       103355-0001_RA_BOM.xlsx
+|       103355-0001_RA_BOM_Corrcted.xlsx
+|       103355-B001_RA_FAB.zip
+|       103355_0001_RA_Schematic.PDF
+|       
++---103355-0001_RB_CCA
+|       103355-0001-RA Source.zip
+|       103355-0001_RA_BOM_Corrcted.xlsx
+|       103355-0001_RB_BOM.pdf
+|       103355-B001_RA_FAB.zip
+|       103355_0001_RA_Schematic.PDF
+|       Rework instructions for 103355 RB.docx
+|       Rework instructions for 103355 RB.pdf
+|       
++---103355-0001_RC_CCA
+|   |   103355-0001_RC_BOM.pdf
+|   |   103355-0001_RC_BOM.xlsx
+|   |   103355-0001_RC_Source.zip
+|   |   103355-B001-RB.step
+|   |   103355-B001_RB_FAB.zip
+|   |   103355_0001_RC_Schematic.PDF
+|   |   
+|   \---BOM
+|           Bill of Materials-103355-0001-RC.csv
+|           
++---103355-0001_RE_CCA
+|       103355-0001_RE_BOM.pdf
+|       103355-0001_RE_BOM.xlsx
+|       103355-B001-RB.step
+|       103355-B001_RB_FAB.zip
+|       103355_0001_RE_Schematic.PDF
+|       Rework instructions fof 103355-0001 RE.docx
+|       Rework instructions fof 103355-0001 RE.pdf
+|       
++---103355-0001_RF_CCA
+|       103355-0001-RF-SOURCE.zip
+|       103355-0001_RF_BOM.pdf
+|       103355-0001_RF_BOM.xlsx
+|       103355-0001_RF_Schematic.PDF
+|       103355-B001_RB_FAB.zip
+|       
++---103355-0002_RA_CCA
+|       103355-0002_RA_BOM.pdf
+|       103355-0002_RA_BOM.xlsx
+|       103355-0002_RA_Schematic.PDF
+|       103355-0002_RA_Source.zip
+|       103355-B002_RA.ipc
+|       103355-B002_RA.REP
+|       103355-B002_RA_Fab.zip
+|       
++---103398-0001_RA_CCA
+|       103398-0001_RA_BOM.xls
+|       103398-0001_RA_schematic.pdf
+|       103398-0001_RA_Source.zip
+|       103398-B001_RA_3Dview.pdf
+|       103398-B001_RA_Fab.zip
+|       
++---103410-0001_RA_CCA
+|   |   103410-0001_RA_BOM.xls
+|   |   103410-0001_RA_Schematic.pdf
+|   |   103410-B001_RA_FAB.zip
+|   |   
+|   \---103410-0001_RA_SOURCE
+|           400V-DC-to-14V-DC-converter1D.SchDoc
+|           9672.PcbLib
+|           967211.PcbDoc
+|           BOM 420V-DC-to-16V-DC-converter.xlsx
+|           PCB_Project.OutJob
+|           PCB_Project.PrjPcb
+|           PCB_Project.PrjPcbStructure
+|           PCB_Project.SCHLIB
+|           STEP-103410-0001_RA.step
+|           
++---103410-0002_RA_CCA
+|       103410-0002_RA_BOM - Quote.xlsx
+|       103410-0002_RA_BOM.pdf
+|       103410-0002_RA_DPM (6-5-2018 1-37-54 PM)_source.zip
+|       103410-0002_RA_Schematic.pdf
+|       103410-B002_RA_FAB.zip
+|       Pick Place for 103410-B002_RA_Drone_DPM.txt
+|       
++---103410-0002_RB_CCA
+|       103410-0002_RB_BOM - Corrected.xlsx
+|       103410-0002_RB_BOM.pdf
+|       103410-0002_RB_BOM.xlsx
+|       103410-0002_RB_Schematic.pdf
+|       103410-0002_RB_source.zip
+|       103410-B002_RB_Drone_DPM.step
+|       103410-B002_RB_FAB.zip
+|       Pick Place for 103410-B002_RB.txt
+|       
++---103410-0002_RC_CCA
+|       103410-0002_RC_BOM.pdf
+|       103410-0002_RC_BOM.xlsx
+|       103410-0002_RC_Schematic.pdf
+|       103410-B002-RC.gwk
+|       103410-B002_RC_Drone_DPM.step
+|       103410-B002_RC_FAB.zip
+|       103410-B002_RC_source.zip
+|       Pick Place for 103410-B002_RC_Drone_DPM.txt
+|       
++---103410-0003_RA_CCA
+|       103410-0003_RA_BOM.pdf
+|       103410-0003_RA_BOM.xlsx
+|       103410-0003_RA_Schematic.pdf
+|       103410-0003_RA_Source.zip
+|       103410-B003_RA_Fab.zip
+|       
++---103410-0003_RB_CCA
+|       103410-0003_RA_BOM.xlsx
+|       103410-0003_RB_BOM.pdf
+|       103410-0003_RB_Schematic.pdf
+|       
++---103410-0003_RC_CCA
+|       103410-0003_RC_BOM.pdf
+|       103410-0003_RC_BOM.xlsx
+|       103410-0003_RC_DPM_source.zip
+|       103410-B003_RB_FAB.zip
+|       
++---103422-0001_RA_CCA
+|   |   103422-0001_RA_Source.zip
+|   |   103422-B001_RA_Fab.osh.zip
+|   |   103422-B001_RA_Fab.zip
+|   |   
+|   \---103422-0001_RA_Source
+|           Design11.asc
+|           DESIGN11.DSN
+|           DESIGN11.DSNlck
+|           Design11.dxf
+|           Design11.eco
+|           DESIGN11.ONL
+|           Design11.opj
+|           Design11.pcb
+|           DESIGN11_0.DBK
+|           diode-board-bottom.JPG
+|           diode-board-layer2.JPG
+|           diode-board-layer3.JPG
+|           diode-board-top.JPG
+|           
++---103422-0002_RA_CCA
+|       103422-0002_RA_BOM.xlsx
+|       103422-0002_RA_SCHEMATIC.pdf
+|       103422-0002_RA_SOURCE.zip
+|       103422-B002_RA_FAB.zip
+|       
++---103430-0001_RA_CCA
+|   |   103430-0001_RA_BOM.pdf
+|   |   103430-0001_RA_Schematic.pdf
+|   |   
+|   \---103430-0001_RA_Source
+|           103430-0001RA.sch
+|           103430-B001RA.brd
+|           26482 IF CCA.pdf
+|           
++---103430-0002_RA_CCA
+|       103430-0002 RA 26482 IF CCA.brd
+|       103430-0002 RA 26482 IF CCA.pdf
+|       103430-0002 RA 26482 IF CCA.sch
+|       103430-0002_RA_BOM.pdf
+|       103430-0002_RA_FAB.zip
+|       103430-0002_RA_Schematic.pdf
+|       
++---103446-0001_RA_CCA
+|       103446-0001_RA_BOM.xlsx
+|       103446-0001_RA_Schematic.PDF
+|       103446-0001_RA_Source.zip
+|       103446-B001_RA_Fab.zip
+|       
++---103446-0001_RB_CCA
+|       103446-0001_RB_BOM.pdf
+|       103446-0001_RB_BOM.xlsx
+|       103446-0001_RB_Schematic.PDF
+|       CCA Rework.jpg
+|       EC-NA-1343 Rework.pdf
+|       EC-NA-1343 Rework.pptx
+|       
++---103446-0001_RC_CCA
+|       103446-0001_ RC_Schematic.PDF
+|       103446-0001_RC_BOM.pdf
+|       103446-0001_RC_BOM.xlsx
+|       103446-0001_RC_Source.zip
+|       103446-B001_RB_FAB.zip
+|       
++---103446-0001_RD_CCA
+|       103446-0001_RD_BOM.pdf
+|       103446-0001_RD_BOM.xlsx
+|       103446-0001_RD_Schematic.PDF
+|       103446-0001_RD_Source.zip
+|       103446-B001_RB_FAB.zip
+|       
++---103460-0001_RA_CCA
+|       103460-0001_BB_RA_Schematic.pdf
+|       103460-0001_BB_RA_Source.zip
+|       103460-0001_RA_BOM.xlsx
+|       103460-B001_BB_RA_FAB.zip
+|       
++---103460-0002_RA_CCA
+|       103460-0002_RA_BOM.xlsx
+|       103460-0002_RA_Schematic.PDF
+|       103460-0002_RA_Source.zip
+|       103460-B002_RA_FAB.zip
+|       
++---103477-0002_RA_CCA
+|       103477-0002_RA.brd
+|       103477-0002_RA.sch
+|       103477-0002_RA_Schematic.pdf
+|       103477-B002_RA.zip
+|       
++---103477-0002_RB_CCA
+|       103477-0002_RB.step
+|       103477-0002_RB_ebom.xlsx
+|       103477-0002_RB_Schematic.pdf
+|       103477-0002_RB_source.zip
+|       103477-B002_RB.gwk
+|       103477-B002_RB_FAB.zip
+|       
++---103477-0003_RA_CCA
+|       103477-0003_RA_BOM.xlsx
+|       103477-0003_RA_Schematic.pdf
+|       103477-0003_RA_Source.zip
+|       103477-B003_RA_Fab.zip
+|       
++---103477-0003_RB_CCA
+|       103477-0003_RB (7-10-2020 11-48-24 AM)_source.zip
+|       103477-0003_RB_BOM.xlsx
+|       103477-0003_RB_schematic.pdf
+|       103477-B003_RB.gwk
+|       103477-B003_RB.step
+|       103477-B003_RB_FAB.zip
+|       
++---103477-0003_RC_CCA
+|       103477-0003_RC_BOM.xlsx
+|       103477-0003_RC_BOM_Assy.xlsx
+|       103477-0003_RC_Source.zip
+|       103477-B003_RC_FAB.zip
+|       
++---103477-0003_RD_CCA
+|       103477-0003_RD_BOM.xlsx
+|       103477-0003_RD_BOM_Assy.xlsx
+|       103477-0003_RD_Schematic.pdf
+|       103477-0003_RD_Source.zip
+|       103477-B003_RD_FAB.zip
+|       
++---103513-0001_RA_CCA
+|       103513-0001_RA_BOM.pdf
+|       103513-0001_RA_BOM.xlsx
+|       103513-0001_RA_Schematic.pdf
+|       103513-B001_RA_FAB.zip
+|       103513_0001_RA_SOURCE.zip
+|       
++---103513-0001_RB_CCA
+|       103513-0001_RB_BOM.pdf
+|       103513-0001_RB_BOM.xlsx
+|       103513-0001_RB_Schematic.pdf
+|       103513-B001_RB-400V_PS_INTERFACE.step
+|       103513-B001_RB_FAB.zip
+|       103513_0001_RB_SOURCE.zip
+|       ~$103513-0001_RB_BOM.xlsx
+|       
++---103513-0001_RC_CCA
+|       103513-0001_RC_Schematic.pdf
+|       
++---103553-000X_RA_CCA
+|       103553-B001_RA.pdf
+|       103553-B001_RA_fab.zip
+|       103553-B002_RA.pdf
+|       103553-B002_RA_fab.zip
+|       103553_RA_source.zip
+|       
++---103553-000X_RB_CCA
+|   |   103553-B001_RB_3D.pdf
+|   |   103553-B001_RB_Assy.pdf
+|   |   103553-B001_RB_Fab.zip
+|   |   103553-B002_RB_3D.pdf
+|   |   103553-B002_RB_assy.pdf
+|   |   103553-B002_RB_Fab.zip
+|   |   
+|   \---103553-000X_RB_Source
+|           103553-B001_RB.PcbDoc
+|           103553-B001_RB.step
+|           103553-B002_RB.PcbDoc
+|           103553-B002_RB.step
+|           103553_RB.PrjPCB
+|           
++---103616-0002_RA_CCA
+|       103616-0002_RA_BOM.pdf
+|       103616-0002_RA_BOM.xlsx
+|       103616-0002_RA_Schematic.pdf
+|       103616-0002_RA_Source.zip
+|       103616-B002_RA_Fab_GERBER.zip
+|       103616-B002_RA_Fab_ODB.zip
+|       
++---103616-0002_RB_CCA
+|       103616-0002_RB-Source.zip
+|       103616-0002_RB_BOM.xlsx
+|       103616-0002_RB_Schematic.pdf
+|       103616-B002_RB-Fab.zip
+|       
++---103617-0002_RA_CCA
+|       103617-0002_RA_BOM.pdf
+|       103617-0002_RA_BOM.xlsx
+|       103617-0002_RA_Schematic.pdf
+|       103617-0002_RA_Source.zip
+|       103617-B002_RA_Fab_GERBER.zip
+|       103617-B002_RA_Fab_ODB.zip
+|       
++---103617-0002_RB_CCA
+|       103617-0002_RB-Source.zip
+|       103617-0002_RB_BOM.xlsx
+|       103617-0002_RB_Schematic.PDF
+|       103617-B002_RB-Fab.zip
+|       
++---103703-0001_RA_CCA
+|       103703-0001_RA_Source.zip
+|       103703-B001_RA_FAB.zip
+|       
++---103816-0001_RA_CCA
+|       103816-0001_RA_BOM.xlsx
+|       103816-0001_RA_Schematic.PDF
+|       103816-0001_RA_Source.zip
+|       103816-B001_RA_Fab.zip
+|       
++---103816-0002_RA_CCA
+|       103816-0002_RA_DBOM.xlsx
+|       103816-0002_RA_SCH.PDF
+|       103816-0002_RA_Source.zip
+|       103816-B002_RA_Fab.zip
+|       
++---103817-0001_RA_CCA
+|       103817-0001_RA_BOM.xlsx
+|       103817-0001_RA_Schematic.PDF
+|       103817-0001_RA_Source.zip
+|       103817-B001_RA_Fab.zip
+|       
++---103817-0002_RA_CCA
+|       103817-0002_RA_BOM.xlsx
+|       103817-0002_RA_Schematic.PDF
+|       103817-0002_RA_Source.zip
+|       103817-B002_RA_FAB.zip
+|       
++---103826-0001_RA_CCA
+|       103826-0001_RA_Source.zip
+|       103826-1001_RA_BOM.xlsx
+|       103826-1001_RA_Schematic.PDF
+|       103826-2001_RA_BOM.xlsx
+|       103826-2001_RA_Schematic.PDF
+|       103826-B001_RA_Fab.zip
+|       EC-103826-X001-A.pdf
+|       
++---103827-0001_RA_CCA
+|       103827-1001_RA_BOM U2 update.xlsx
+|       103827-1001_RA_BOM.xlsx
+|       103827-2001_RA_BOM.xlsx
+|       103827-B001_RA_Fab.zip
+|       103827-X001_RA_Source.zip
+|       
++---103836-0001_RA_CCA
+|       103836-0001_RA_BOM.xlsx
+|       103836-0001_RA_Schematic.PDF
+|       103836-0001_RA_Source.zip
+|       103836-B001_RA_Fab.zip
+|       
++---103846-0001_RA_CCA
+|       103846-0001_RA_BOM.xlsx
+|       103846-0001_RA_Source.zip
+|       103846-B001_RA_Fab.zip
+|       103846_0001_RA_BOM unformatted.xlsx
+|       103846_0001_RA_Schematic.PDF
+|       
++---103847-0001_RA_CCA
+|       103847-0001_RA_BOM.pdf
+|       103847-0001_RA_BOM.xlsx
+|       103847-0001_RA_Fab.zip
+|       103847-0001_RA_Schematic.PDF
+|       103847-0001_RA_Source.zip
+|       
++---103856-0001_RA_CCA
+|   |   103856-1001_RA_BOM.pdf
+|   |   103856-1001_RA_BOM.xlsx
+|   |   103856-1001_RA_Schematic.PDF
+|   |   103856-2001_RA_BOM.pdf
+|   |   103856-2001_RA_BOM.xlsx
+|   |   103856-2001_RA_Schematic.PDF
+|   |   103856-B001_RA_Fab.zip
+|   |   
+|   \---103856-x001_RA_Source
+|       |   103856-B001_RA.PcbDoc
+|       |   103856-x001_RA_2.OutJob
+|       |   CARS_HVSnS_103856_Final.BomDoc
+|       |   CARS_HVSnS_103856_Final.PrjPcb
+|       |   CARS_HVSnS_103856_Final.PrjPcbStructure
+|       |   CARS_HVSnS_103856_Final.PrjPcbVariants
+|       |   CARS_HVSS.BomDoc
+|       |   CARS_HVSS_ChangeLog.SchDoc
+|       |   CARS_HVSS_HiVSwitch.Harness
+|       |   CARS_HVSS_HiVSwitch.SchDoc
+|       |   CARS_HVSS_HV_Misc.SchDoc
+|       |   CARS_HVSS_LoVSwitch.Harness
+|       |   CARS_HVSS_LoVSwitch.SchDoc
+|       |   CARS_HVSS_PLM.SchDoc
+|       |   CARS_HVSS_PowerSupply.SchDoc
+|       |   CARS_HVSS_uProc-BGA.Harness
+|       |   CARS_HVSS_uProc-BGA.SchDoc
+|       |   CARS_HVSS_UPSnConns.SchDoc
+|       |   
+|       +---History
+|       |       103856-x001_RA_2.~(1).OutJob.Zip
+|       |       103856-x001_RA_2.~(2).OutJob.Zip
+|       |       103856-x001_RA_2.~(3).OutJob.Zip
+|       |       CARS_HVSnS_103856_Final.~(1).BomDoc.Zip
+|       |       CARS_HVSnS_103856_Final.~(1).PrjPcb.Zip
+|       |       CARS_HVSnS_103856_Final.~(2).BomDoc.Zip
+|       |       
+|       \---Project Outputs for CARS_HVSnS_103856_Final
+|           +---Assembly Drawing
+|           |       103856-1001_RA_ASM.PDF
+|           |       103856-2001_RA_ASM.PDF
+|           |       103856-x001_RA_ASM.PDF
+|           |       
+|           +---BOM
+|           |   |   Status Report.Txt
+|           |   |   
+|           |   \---2021-05-04
+|           |           103856-1001_RA_BOM.xlsx
+|           |           103856-2001_RA_BOM.xlsx
+|           |           103856-x001_RA_BOM.xlsx
+|           |           
+|           \---Schematic Prints
+|               \---2021-05-04
+|                       103856-1001_RA_SCH.PDF
+|                       103856-2001_RA_SCH.PDF
+|                       103856-x001_RA_SCH.PDF
+|                       
++---103926-0001_RA_CCA
+|       103926-0001_RA_BOM.pdf
+|       103926-0001_RA_BOM.xlsx
+|       103926-0001_RA_Schematic.PDF
+|       103926-0001_RA_SOURCE.zip
+|       103926-B001_RA_Fab.zip
+|       
++---104086-0001_RA_CCA
+|   |   104086-0001_RA_BOM.pdf
+|   |   104086-0001_RA_Schematic.pdf
+|   |   
+|   +---104086-0001_RA_Fab
+|   |       104086-0001_RA_Project.fab
+|   |       104086-B001_RA.gwk
+|   |       299922.zip
+|   |       
+|   \---104086-0001_RA_Source
+|           104086-0001_RA Model.sfx
+|           104086-0001_RA Model.stp
+|           104086-0001_RA_PCB.dxf
+|           104086-0001_RA_Project (PCB - Design Rule Check Report).txt
+|           104086-0001_RA_Project (PCB - PCB Configuration Report).txt
+|           104086-0001_RA_Project.dxf
+|           104086-0001_RA_Project.pcb
+|           ~104086-0001_RA_Project.pcb
+|           
++---104100-0001_RA_CCA
+|       104100-0001_RA_BOM.xlsx
+|       104100-0001_RA_Schematic.PDF
+|       104100-0001_RA_Source.zip
+|       104100-B001_RA_Fab.zip
+|       
++---104107-0001_RA_CCA
+|       104107-0001_RA (8-19-2020 4-23-08 PM)_source.zip
+|       104107-0001_RA_BOM.pdf
+|       104107-0001_RA_BOM.xlsx
+|       104107-0001_RA_Schematic.pdf
+|       104107-B001_FAB_DPMtestjig.zip
+|       testjig.step
+|       
++---104107-0001_RB_CCA
+|       104107-0001_RB_BOM.xlsx
+|       104107-0001_RB_Schematic.pdf
+|       104107-0001_RB_source.zip
+|       104107-B001_RB_FAB.zip
+|       
++---104134-0001_RA_CCA
+|       104134-B001_RA_Fab.zip
+|       
++---104210-0001_RA_CCA
+|       104210-0001_RA_Schematic.pdf
+|       104210-0001_RA_Source.zip
+|       104210-B001_RA_FAB.zip
+|       
++---104240-0001_RA_CCA
+|       104240-0001_RA_BOM.pdf
+|       104240-1001_RA_BOM.pdf
+|       104240-1001_RA_BOM.xlsx
+|       104240-2001_RA_BOM.xlsx
+|       104240-B001_RA_FAB.zip
+|       
++---104246-0001_RA_CCA
+|       104246-0001_RA_BOM.csv
+|       104246-0001_RA_Source.zip
+|       104246-B001_RA_FAB.zip
+|       104246_0001_RA_Schematic.PDF
+|       
++---104319-0001_RA_CCA
+|       104319-0001 RA Fab.zip
+|       104319-0001 RA Source.zip
+|       
++---105002-0001 Rev RA Low Power IF CCA
+|   |   105002-0001 LPI CCA.pdf
+|   |   105002-0001 Rev RA LPI CCA BOM.xls
+|   |   105002-0001_RA_HARC_LOWPOW_DIOD.pdf
+|   |   Fabrication_105002-B001-RA.zip
+|   |   
+|   \---Source Documents
+|           105002-0001 LPI CCA.tc3
+|           105002-0001_RA_HARC_LOWPOW_DIODES.DSN
+|           
++---105003-0001 Rev RA High Power IF CCA
+|   |   105003-0001 HPI CCA.pdf
+|   |   105003-0001 Rev RA HPI CCA BOM.xls
+|   |   105003-0001_RA_HPI.pdf
+|   |   Fabrication_105003-B001-RA.zip
+|   |   
+|   \---Source Documents
+|           105003-0001 HPI CCA.tc3
+|           105003-0001_RA_HARC_HIPOW.DSN
+|           
++---105004-0001 Rev RA Low Power Filter CCA
+|   |   105004-0001 LPF CCA.pdf
+|   |   105004-0001 Rev RA LPF CCA BOM.xls
+|   |   105004-0001_RA_HARC_LOWPOW_FILT.pdf
+|   |   Fabrication_105004-B001-RA.zip
+|   |   
+|   \---Source Documents
+|           105004-0001 LPF CCA.tc3
+|           105004-0001_RA_HARC_LOWPOW_FILT.DSN
+|           
++---105004-0001_RC_CCA
+|   |   105004-0001 Rev RC LPF CCA BOM.xls
+|   |   105004-0001_RC_BOM.pdf
+|   |   105004-0001_RC_SCHEMATIC.pdf
+|   |   105004-B001-RB_FAB.zip
+|   |   
+|   \---105004-0001_RC_SOURCE
+|       |   105004-0001 Rev RC LPF CCA BOM.xls
+|       |   105004-0001-RC_ASSY.DWG
+|       |   105004-0001-RC_ASSY.pdf
+|       |   105004-0001-RC_SCHEMATIC.pdf
+|       |   105004-0001_RC_HARC_LOWPOW_FILT.DSN
+|       |   105004-B001-RB-APR.lis
+|       |   105004-B001-RB-MSKAPR.lis
+|       |   105004-B001-RB.BOT
+|       |   105004-B001-RB.IN1
+|       |   105004-B001-RB.IN2
+|       |   105004-B001-RB.MAX
+|       |   105004-B001-RB.net
+|       |   105004-B001-RB.SMB
+|       |   105004-B001-RB.SMT
+|       |   105004-B001-RB.SPT
+|       |   105004-B001-RB.SST
+|       |   105004-B001-RB.tap
+|       |   105004-B001-RB.TOP
+|       |   105004-B001-RB_FAB.DWG
+|       |   105004-B001-RB_FAB.pdf
+|       |   105004-B001-RB_INSERT.TXT
+|       |   105004-B001-RB_PICKNPLC.TXT
+|       |   105004-B001-RB_SMTOP.TXT
+|       |   105004-B001-RB_THTOP.TXT
+|       |   105004-B001_RB.DTS
+|       |   README.TXT
+|       |   
+|       +---Board Fabrication
+|       |       105004-B001-RB_Fabrication.zip
+|       |       
+|       \---Card Assembly
+|               105004-0001 Rev RC LPF CCA BOM.xls
+|               105004-0001-RC_ASSY.DWG
+|               105004-0001-RC_ASSY.pdf
+|               105004-0001-RC_SCHEMATIC.pdf
+|               105004-0001_RC_HARC_LOWPOW_FILT.DSN
+|               105004-B001-RB_INSERT.TXT
+|               105004-B001-RB_PICKNPLC.TXT
+|               105004-B001-RB_SMTOP.TXT
+|               105004-B001-RB_THTOP.TXT
+|               
++---105004-0001_RD_CCA
+|       105004-0001_RD_BOM.pdf
+|       105004-0001_RD_BOM.xlsx
+|       105004-0001_RD_Schematic.pdf
+|       105004-0001_RD_SOURCE.zip
+|       105004-B001_RC_FAB.zip
+|       
++---105004-0002_RC_CCA
+|       105004-0002 Conversion.pdf
+|       105004-0002 Conversion.pptx
+|       105004-0002_RC_BOM.pdf
+|       
++---105005-0001_RA_CCA
+|   |   105005-0001 HPF CCA.pdf
+|   |   105005-0001 Rev RA HPF CCA BOM.xls
+|   |   105005-0001_HARC_HIPOW_FILT.pdf
+|   |   Fabrication_105005-B001-RA.zip
+|   |   
+|   \---Source Documents
+|           105005-0001 HPF CCA.tc3
+|           105005-0001_HARC_HIPOW_FILT.DSN
+|           
++---105005-0001_RB_CCA
+|   |   105005-0001-RB_SCHEMATIC.pdf
+|   |   105005-0001_RB_BOM.pdf
+|   |   105005-B001_RB_FAB.zip
+|   |   
+|   \---105005-0001_RB_Source
+|           105005-0001 Rev RB HPF CCA BOM.xls
+|           105005-0001-RB.DSN
+|           105005-0001-RB_ASSY.DWG
+|           105005-0001-RB_ASSY.pdf
+|           105005-0001-RB_SCHEMATIC.pdf
+|           105005-B001-RB.BOT
+|           105005-B001-RB.DTS
+|           105005-B001-RB.IN1
+|           105005-B001-RB.IN2
+|           105005-B001-RB.MAX
+|           105005-B001-RB.net
+|           105005-B001-RB.SMB
+|           105005-B001-RB.SMT
+|           105005-B001-RB.SPB
+|           105005-B001-RB.SPT
+|           105005-B001-RB.SSB
+|           105005-B001-RB.SST
+|           105005-B001-RB.tap
+|           105005-B001-RB.TOP
+|           105005-B001-RB_APR.lis
+|           105005-B001-RB_FAB.DWG
+|           105005-B001-RB_FAB.pdf
+|           105005-B001-RB_INSERT.TXT
+|           105005-B001-RB_MSKAPR.lis
+|           105005-B001-RB_PICKNPLC.TXT
+|           105005-B001-RB_SMBOT.TXT
+|           105005-B001-RB_SMTOP.TXT
+|           
++---105027-0001 Rev RA Optical IF CCA
+|   |   101879-1003 Optical IF CCA Lid.pdf
+|   |   105027-0001 Optical IF CCA.pdf
+|   |   105027-0001 Rev RA Optical IF CCA BOM.xls
+|   |   105027-0001_ra.pdf
+|   |   105027-B001_RA.zip
+|   |   
+|   \---Source Documents
+|           105027-0001 Optical IF CCA.tc3
+|           105027-0001_RA.DSN
+|           
++---105027-0001_RC_CCA
+|       105027-0001_RC_BOM.xls
+|       105027-0001_RC_Schematic.pdf
+|       105027-0001_RC_source.zip
+|       105027-B001_RB_FAB.zip
+|       
++---105027-0001_RE_CCA
+|   |   105027-0001_RE_BOM.pdf
+|   |   105027-0001_RE_Schematic.pdf
+|   |   105027-B001_RC_FAB.zip
+|   |   
+|   \---105027-0001_RE_Source
+|           105027-0001_RE_BOM.xls
+|           105027-0001_re_source.zip
+|           105027-B001_RC_source.zip
+|           
++---105027-0001_RF_CCA
+|       105027-0001_RF_BOM.pdf
+|       105027-0001_RF_Schematic.pdf
+|       
++---105027-0001_RG_CCA
+|       101879-1003 Optical IF CCA Lid.pdf
+|       105027-0001_RG (12-22-2011 11-26-30 AM).zip
+|       105027-0001_RG_BOM.pdf
+|       105027-0001_RG_BOM.xls
+|       105027-0001_RG_Schematic.pdf
+|       105027-B001_RD_FAB.zip
+|       105027-B001_RD_Mechanical.zip
+|       
++---105027-0001_RH_CCA
+|       105027-0001_RH_BOM.pdf
+|       105027-0001_RH_BOM.xls
+|       105027-0001_RH_schematic.pdf
+|       105027-0001_RH_source.zip
+|       105027-B001_RE_fab.zip
+|       
++---105029-0001 Rev RA GPP CCA
+|   |   105029-0001 GPP CCA.pdf
+|   |   105029-0001 Rev RA GPP CCA BOM.xls
+|   |   105029-0001_RA_GPP.pdf
+|   |   105029-B001_RA.zip
+|   |   
+|   \---Source Documents
+|           105029-0001 GPP CCA.tc3
+|           105029-0001_RA.DSN
+|           
++---105029-0001 Rev RB GPP CCA
+|   |   105029-0001 GPP CCA.pdf
+|   |   105029-0001 Rev RB GPP CCA BOM.xls
+|   |   105029-0001_rb.pdf
+|   |   105029-B001_RB_FAB.zip
+|   |   
+|   \---Source Documents
+|           105029-0001 GPP CCA.tc3
+|           105029-0001_RB.DSN
+|           
++---105029-0001_RD_CCA
+|   |   105029-0001_RD_BOM.pdf
+|   |   105029-0001_RD_Schematic.pdf
+|   |   105029-B001_RC_FAB.zip
+|   |   
+|   \---Source Documents
+|           105029-0001_ RD_BOM.xls
+|           105029-0001_rd_source.zip
+|           105029-B001_RC_source.zip
+|           
++---105029-0001_RE_CCA
+|       105029-0001_ RE_BOM.xls
+|       105029-0001_RE_BOM.pdf
+|       105029-0001_RE_schematic.pdf
+|       105029-0001_RE_source.zip
+|       105029-B001_RD_fab.zip
+|       
++---105029-0002 Rev RB GPP CCA
+|   |   105029-0001 GPP CCA.pdf
+|   |   105029-0001_rb.pdf
+|   |   105029-0002 Rev RB GPP CCA BOM.xls
+|   |   
+|   \---Source Documents
+|           105029-0001 GPP CCA.tc3
+|           105029-0001_RB.DSN
+|           
++---105029-0002 Rev RC GPP CCA
+|   |   105029-0001_ RC_BOM - CRI BUILD 7_10 SB -0002.xls
+|   |   105029-0002_ RC_BOM.xls
+|   |   105029-B001_RB_FAB.zip
+|   |   
+|   \---Source Documents
+|           105029-0001 GPP CCA.tc3
+|           105029-0001_RB.DSN
+|           
++---105030-0001 Rev RA Power Signal Backplane
+|   |   105030-0001 PD BP CCA.pdf
+|   |   105030-0001 Rev RA PS BP CCA BOM.xls
+|   |   105030-0001_RA.pdf
+|   |   
+|   +---105030-B001 Fab Package
+|   |   |   105030-0001-RA_ASSY.DWG
+|   |   |   105030-0001-RA_ASSY.pdf
+|   |   |   105030-0001-RA_Schematic.pdf
+|   |   |   105030-0001_RA.DSN
+|   |   |   105030-B001-RA-APR.lis
+|   |   |   105030-B001-RA-MSKAPR.lis
+|   |   |   105030-B001-RA.BOT
+|   |   |   105030-B001-RA.DTS
+|   |   |   105030-B001-RA.IN1
+|   |   |   105030-B001-RA.IN2
+|   |   |   105030-B001-RA.IN3
+|   |   |   105030-B001-RA.IN4
+|   |   |   105030-B001-RA.MAX
+|   |   |   105030-B001-RA.net
+|   |   |   105030-B001-RA.npt
+|   |   |   105030-B001-RA.SMB
+|   |   |   105030-B001-RA.SMT
+|   |   |   105030-B001-RA.SPB
+|   |   |   105030-B001-RA.SPT
+|   |   |   105030-B001-RA.SSB
+|   |   |   105030-B001-RA.SST
+|   |   |   105030-B001-RA.tap
+|   |   |   105030-B001-RA.TOP
+|   |   |   105030-B001-RA_FAB.DWG
+|   |   |   105030-B001-RA_FAB.pdf
+|   |   |   105030-B001-RA_INSERT.TXT
+|   |   |   105030-B001-RA_PICKNPLC.TXT
+|   |   |   105030-B001-RA_SMBOT.TXT
+|   |   |   105030-B001-RA_SMTOP.TXT
+|   |   |   105030-B001-RA_THBOT.TXT
+|   |   |   105030-B001-RA_THTOP.TXT
+|   |   |   
+|   |   +---Board Fabrication
+|   |   |       Fabrication_105030-B001-RA.zip
+|   |   |       
+|   |   \---Card Assembly
+|   |           105030-0001 Rev RA PS BP CCA BOM.xls
+|   |           105030-0001-RA_ASSY.DWG
+|   |           105030-0001-RA_ASSY.pdf
+|   |           105030-0001-RA_Schematic.pdf
+|   |           105030-0001_RA.DSN
+|   |           105030-B001-RA_INSERT.TXT
+|   |           105030-B001-RA_PICKNPLC.TXT
+|   |           105030-B001-RA_SMBOT.TXT
+|   |           105030-B001-RA_SMTOP.TXT
+|   |           105030-B001-RA_THBOT.TXT
+|   |           105030-B001-RA_THTOP.TXT
+|   |           
+|   \---Source Documents
+|           105030-0001 PD BP CCA.tc3
+|           105030-0001_RA.DSN
+|           
++---105030-0001 Rev RC Power Signal Backplane
+|       105030-0001 PD BP CCA.pdf
+|       105030-0001 Rev RC PS BP CCA BOM.xls
+|       
++---105030-0003_RA_CCA
+|   |   105030-0001 PD BP CCA.pdf
+|   |   105030-0003_RA_BOM.pdf
+|   |   105030-0003_RA_Schematic.pdf
+|   |   105030-B003-RA_FAB.zip
+|   |   
+|   \---105030-0003_RA_SOURCE
+|       |   105030-0003 Rev RA PS BP CCA BOM.xls
+|       |   105030-0003-RA.DSN
+|       |   105030-0003-RA_ASSY.DWG
+|       |   105030-0003-RA_ASSY.pdf
+|       |   105030-0003-RA_Schematic.pdf
+|       |   105030-B003-RA.BOT
+|       |   105030-B003-RA.DRD
+|       |   105030-B003-RA.DTS
+|       |   105030-B003-RA.IN1
+|       |   105030-B003-RA.IN2
+|       |   105030-B003-RA.IN3
+|       |   105030-B003-RA.IN4
+|       |   105030-B003-RA.MAX
+|       |   105030-B003-RA.net
+|       |   105030-B003-RA.npt
+|       |   105030-B003-RA.SMB
+|       |   105030-B003-RA.SMT
+|       |   105030-B003-RA.SPB
+|       |   105030-B003-RA.SPT
+|       |   105030-B003-RA.SSB
+|       |   105030-B003-RA.SST
+|       |   105030-B003-RA.tap
+|       |   105030-B003-RA.TOP
+|       |   105030-B003-RA_FAB.DWG
+|       |   105030-B003-RA_Fab.pdf
+|       |   105030-B003-RA_INSERT.TXT
+|       |   105030-B003-RA_PICKNPLC.TXT
+|       |   105030-B003-RA_SMBOT.TXT
+|       |   105030-B003-RA_SMTOP.TXT
+|       |   105030-B003-RA_THBOT.TXT
+|       |   105030-B003-RA_THTOP.TXT
+|       |   105030-B003_RA-APR.lis
+|       |   105030-B003_RA-MSKAPR.lis
+|       |   README.TXT
+|       |   
+|       +---Board Fabrication
+|       |       105030-B003-RA_Fabrication.zip
+|       |       
+|       \---Card Assembly
+|               105030-0003 Rev RA PS BP CCA BOM.xls
+|               105030-0003-RA.DSN
+|               105030-0003-RA_ASSY.DWG
+|               105030-0003-RA_ASSY.pdf
+|               105030-0003-RA_Schematic.pdf
+|               105030-B003-RA_INSERT.TXT
+|               105030-B003-RA_PICKNPLC.TXT
+|               105030-B003-RA_SMBOT.TXT
+|               105030-B003-RA_SMTOP.TXT
+|               105030-B003-RA_THBOT.TXT
+|               105030-B003-RA_THTOP.TXT
+|               
++---105031-0001 RA Power Interface Backplane
+|   |   105031-0001 PI BP CCA.pdf
+|   |   105031-0001 Rev RA PI BP CCA BOM.xls
+|   |   105031-0001_RA.pdf
+|   |   
+|   +---105031-B001 Fab Package
+|   |   |   105031-0001-RA_ASSY.DWG
+|   |   |   105031-0001-RA_ASSY.pdf
+|   |   |   105031-0001-RA_Schematic.pdf
+|   |   |   105031-0001_RA.DSN
+|   |   |   105031-B001-RA-APR.lis
+|   |   |   105031-B001-RA-MSKAPR.lis
+|   |   |   105031-B001-RA.BOT
+|   |   |   105031-B001-RA.DTS
+|   |   |   105031-B001-RA.IN1
+|   |   |   105031-B001-RA.IN2
+|   |   |   105031-B001-RA.IN3
+|   |   |   105031-B001-RA.IN4
+|   |   |   105031-B001-RA.MAX
+|   |   |   105031-B001-RA.net
+|   |   |   105031-B001-RA.npt
+|   |   |   105031-B001-RA.SMB
+|   |   |   105031-B001-RA.SMT
+|   |   |   105031-B001-RA.SPB
+|   |   |   105031-B001-RA.SPT
+|   |   |   105031-B001-RA.SSB
+|   |   |   105031-B001-RA.SST
+|   |   |   105031-B001-RA.tap
+|   |   |   105031-B001-RA.TOP
+|   |   |   105031-B001-RA_FAB.DWG
+|   |   |   105031-B001-RA_FAB.pdf
+|   |   |   105031-B001-RA_INSERT.TXT
+|   |   |   105031-B001-RA_PICKNPLC.TXT
+|   |   |   105031-B001-RA_SMBOT.TXT
+|   |   |   105031-B001-RA_SMTOP.TXT
+|   |   |   105031-B001-RA_THBOT.TXT
+|   |   |   105031-B001-RA_THTOP.TXT
+|   |   |   
+|   |   +---Board Fabrication
+|   |   |       Fabrication_105031-B001-RA.zip
+|   |   |       
+|   |   \---Card Assembly
+|   |           105031-0001 Rev RA PI BP CCA BOM.xls
+|   |           105031-0001-RA_ASSY.DWG
+|   |           105031-0001-RA_ASSY.pdf
+|   |           105031-0001-RA_Schematic.pdf
+|   |           105031-0001_RA.DSN
+|   |           105031-B001-RA_INSERT.TXT
+|   |           105031-B001-RA_PICKNPLC.TXT
+|   |           105031-B001-RA_SMBOT.TXT
+|   |           105031-B001-RA_SMTOP.TXT
+|   |           105031-B001-RA_THBOT.TXT
+|   |           105031-B001-RA_THTOP.TXT
+|   |           
+|   \---Source Documents
+|           105031-0001 PI BP CCA.tc3
+|           105031-0001_RA.DSN
+|           
++---105032-0001 Rev RA EDFA CTL CCA
+|   |   105032-0001 EDFA CCA.pdf
+|   |   105032-0001 Rev RA EDFA CCA BOM.xls
+|   |   105032-0001_RA.pdf
+|   |   105032-B001_RA.zip
+|   |   
+|   \---Source Documents
+|           105032-0001 EDFA CCA.tc3
+|           105032-0001_RA.DSN
+|           
++---105032-0001_RB_CCA
+|   |   105032-0001 EDFA CCA.pdf
+|   |   105032-0001_RB_BOM.pdf
+|   |   105032-0001_RB_BOM.xls
+|   |   105032-0001_RB_Schematic.pdf
+|   |   105032-B001_RA.zip
+|   |   
+|   \---Source Documents
+|           105032-0001 EDFA CCA.tc3
+|           105032-0001_RA.DSN
+|           
++---105033-0001 Rev RA RIU TR CCA
+|   |   105033-0001 Rev RA RIU TR CCA BOM.xls
+|   |   105033-0001 RIU TR.pdf
+|   |   105033-B001_RA.zip
+|   |   
+|   \---Source Documents
+|           105033-0001 RIU TR.tc3
+|           105033-0001_RA.DSN
+|           
++---105033-0002 Rev RA RIU TR CCA
+|   |   105033-0001 RIU TR.pdf
+|   |   105033-0002 ASSY_NOTES.pdf
+|   |   105033-0002 Rev RA RIU TR CCA BOM.xls
+|   |   105033-0002_RA.pdf
+|   |   105033-B002_RA.zip
+|   |   
+|   \---Source Documents
+|           105033-0001 RIU TR.tc3
+|           
++---105033-0002 Rev RC RIU TR CCA
+|       105033-0002_RC_BOM.xls
+|       105033-0002_RC_Schematic.pdf
+|       105033-0002_RC_Source.zip
+|       105033-B002_RC_FAB.zip
+|       
++---105033-0002_RD_CCA
+|   |   105033-0002_RD_BOM.xls
+|   |   105033-0002_RD_Schematic.pdf
+|   |   105033-B002_RC_FAB.zip
+|   |   
+|   \---105033-0002_RD_Source
+|           105033-0002_RD.DSN
+|           105033-0002_RD.xlsx
+|           105033-B001_RC.gwk
+|           
++---105033-0002_RE_CCA
+|   |   105033-0001 RIU TR.pdf
+|   |   105033-0002_RE_BOM.pdf
+|   |   105033-0002_RE_Schematic.pdf
+|   |   105033-B002_RC_FAB.zip
+|   |   
+|   \---105033-0002_RE_Source
+|           105033-0002_RE.DSN
+|           105033-0002_RE.xlsx
+|           105033-0002_RE_BOM.xls
+|           
++---105033-0002_RF_CCA
+|   |   105033-0001 RIU TR.pdf
+|   |   105033-0002_RF_BOM.pdf
+|   |   105033-0002_RF_Schematic.pdf
+|   |   105033-B002_RC_FAB.zip
+|   |   
+|   \---105033-0002_RF_Source
+|           105033-0002_RE.DSN
+|           105033-0002_RF_BOM.xls
+|           
++---105033-0002_RG_CCA
+|   |   105033-0001 RIU TR.pdf
+|   |   105033-0002_RG_BOM.pdf
+|   |   105033-0002_RG_BOM.xlsx
+|   |   105033-0002_RG_Schematic.pdf
+|   |   105033-0002_RG_SOURCE.zip
+|   |   105033-B002_RD_FAB.zip
+|   |   
+|   \---105033-0002_RG_SOURCE
+|       |   105033-0002_RG.PrjPcb
+|       |   105033-0002_RG.PrjPcbStructure
+|       |   105033-B002_RD.PcbDoc
+|       |   105033-B002_RD.step
+|       |   CONTROL_2.SchDoc
+|       |   COUNTER_4.SchDoc
+|       |   REVISIONS_6.SchDoc
+|       |   RXPATH_3.SchDoc
+|       |   SWITCH AND LEVEL_5.SchDoc
+|       |   TOP_LEVEL_1.SchDoc
+|       |   
+|       \---Project Outputs for 105033-0002_RG
+|           |   105033-B002_RD_Gerber.cam
+|           |   105033-B002_RD_NCDrill.cam
+|           |   Design Rule Check - 105033-B002_RD.html
+|           |   
+|           +---Gerber Output
+|           |       105033-B002_RD.EXTREP
+|           |       105033-B002_RD.G1
+|           |       105033-B002_RD.G2
+|           |       105033-B002_RD.G3
+|           |       105033-B002_RD.G4
+|           |       105033-B002_RD.GBL
+|           |       105033-B002_RD.GBO
+|           |       105033-B002_RD.GBP
+|           |       105033-B002_RD.GBS
+|           |       105033-B002_RD.GD1
+|           |       105033-B002_RD.GG1
+|           |       105033-B002_RD.GKO
+|           |       105033-B002_RD.GM1
+|           |       105033-B002_RD.GM2
+|           |       105033-B002_RD.GP1
+|           |       105033-B002_RD.GP2
+|           |       105033-B002_RD.GPB
+|           |       105033-B002_RD.GPT
+|           |       105033-B002_RD.GTL
+|           |       105033-B002_RD.GTO
+|           |       105033-B002_RD.GTP
+|           |       105033-B002_RD.GTS
+|           |       105033-B002_RD.REP
+|           |       105033-B002_RD.RUL
+|           |       
+|           +---NC Drill Output
+|           |       105033-B002_RD-RoundHoles.TXT
+|           |       105033-B002_RD-SlotHoles.TXT
+|           |       105033-B002_RD.DRR
+|           |       105033-B002_RD.LDP
+|           |       
+|           \---Pick Place Output
+|                   Pick Place for 105033-B002_RD.csv
+|                   Pick Place for 105033-B002_RD.txt
+|                   
++---105033-0002_RH_CCA
+|   |   105033-0002_RH_BOM.pdf
+|   |   105033-0002_RH_BOM.xlsx
+|   |   105033-0002_RH_Schematic.pdf
+|   |   105033-B002_RE_FAB.zip
+|   |   
+|   +---105033-0002_RH_SOURCE
+|   |   |   105033-0002_RG.PrjPcb
+|   |   |   105033-0002_RG.PrjPcbStructure
+|   |   |   105033-0002_RH-BOM-9-1-17.xlsx
+|   |   |   105033-0002_RH_schematics-9-1-17.pdf
+|   |   |   105033-B002 REV E.PcbDoc
+|   |   |   959412-9-1-17.PcbDoc
+|   |   |   959412_GERBERS-9-1-17.pdf
+|   |   |   CONTROL_2.PDF
+|   |   |   CONTROL_2.SchDoc
+|   |   |   COUNTER_4.PDF
+|   |   |   COUNTER_4.SchDoc
+|   |   |   Free Documents.OutJob
+|   |   |   Job1.OutJob
+|   |   |   REVISIONS_7.PDF
+|   |   |   REVISIONS_7.SchDoc
+|   |   |   RXPATH_3.PDF
+|   |   |   RXPATH_3.SchDoc
+|   |   |   SWITCH AND LEVEL_5.PDF
+|   |   |   SWITCH AND LEVEL_5.SchDoc
+|   |   |   TOP_LEVEL_1.PDF
+|   |   |   TOP_LEVEL_1.SchDoc
+|   |   |   
+|   |   \---Project Outputs for 105033-0002_RH
+|   |       |   Design Rule Check - 959405.html
+|   |       |   Design Rule Check - 959410.html
+|   |       |   Design Rule Check - 959412.html
+|   |       |   Design Rule Check - 959413.html
+|   |       |   
+|   |       +---Gerber Output
+|   |       |       105033-B002 REV E.EXTREP
+|   |       |       105033-B002 REV E.G1
+|   |       |       105033-B002 REV E.G2
+|   |       |       105033-B002 REV E.G3
+|   |       |       105033-B002 REV E.G4
+|   |       |       105033-B002 REV E.GBL
+|   |       |       105033-B002 REV E.GBO
+|   |       |       105033-B002 REV E.GBP
+|   |       |       105033-B002 REV E.GBS
+|   |       |       105033-B002 REV E.GD1
+|   |       |       105033-B002 REV E.GG1
+|   |       |       105033-B002 REV E.GKO
+|   |       |       105033-B002 REV E.GP1
+|   |       |       105033-B002 REV E.GP2
+|   |       |       105033-B002 REV E.GPB
+|   |       |       105033-B002 REV E.GPT
+|   |       |       105033-B002 REV E.GTL
+|   |       |       105033-B002 REV E.GTO
+|   |       |       105033-B002 REV E.GTP
+|   |       |       105033-B002 REV E.GTS
+|   |       |       105033-B002 REV E.REP
+|   |       |       105033-B002 REV E.RUL
+|   |       |       
+|   |       +---NC Drill Output
+|   |       |       105033-B002 REV E-RoundHoles-Plated.TXT
+|   |       |       105033-B002 REV E-SlotHoles-Plated.TXT
+|   |       |       105033-B002 REV E.DRL
+|   |       |       105033-B002 REV E.DRR
+|   |       |       105033-B002 REV E.LDP
+|   |       |       
+|   |       +---ODB Output
+|   |       |   |   105033-B002 REV E.REP
+|   |       |   |   
+|   |       |   \---odb
+|   |       |       +---matrix
+|   |       |       |       matrix
+|   |       |       |       
+|   |       |       +---steps
+|   |       |       |   \---pcb
+|   |       |       |       |   profile
+|   |       |       |       |   stephdr
+|   |       |       |       |   
+|   |       |       |       +---eda
+|   |       |       |       |       data
+|   |       |       |       |       
+|   |       |       |       +---layers
+|   |       |       |       |   +---bot-lay8
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---bottom_overlay
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---bottom_paste
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---bottom_solder
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---comp_+_bot
+|   |       |       |       |   |       components
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---comp_+_top
+|   |       |       |       |   |       components
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---drill
+|   |       |       |       |   |       features
+|   |       |       |       |   |       tools
+|   |       |       |       |   |       
+|   |       |       |       |   +---mid-lay3
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---mid-lay4
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---mid-lay5
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---mid-lay6
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---plane-lay2
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---plane-lay7
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---rout
+|   |       |       |       |   |       features
+|   |       |       |       |   |       tools
+|   |       |       |       |   |       
+|   |       |       |       |   +---top-lay1
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---top_overlay
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   +---top_paste
+|   |       |       |       |   |       features
+|   |       |       |       |   |       
+|   |       |       |       |   \---top_solder
+|   |       |       |       |           features
+|   |       |       |       |           
+|   |       |       |       \---netlists
+|   |       |       |           \---cadnet
+|   |       |       |                   netlist
+|   |       |       |                   
+|   |       |       \---symbols
+|   |       |           +---rect25x30_66
+|   |       |           |       features
+|   |       |           |       
+|   |       |           +---s39.3701_135
+|   |       |           |       features
+|   |       |           |       
+|   |       |           +---s39.3701_225
+|   |       |           |       features
+|   |       |           |       
+|   |       |           +---s47.3701_135
+|   |       |           |       features
+|   |       |           |       
+|   |       |           \---s47.3701_225
+|   |       |                   features
+|   |       |                   
+|   |       \---Pick Place Output
+|   |               Pick Place for 105033-B002 REV E.csv
+|   |               Pick Place for 105033-B002 REV E.txt
+|   |               
+|   \---105033-B002_RE_FAB
+|       |   959412-RoundHoles-Plated.TXT
+|       |   959412-SlotHoles-Plated.TXT
+|       |   959412_GERBERS-Assembly-9-1-17.pdf
+|       |   cadnet.ipc
+|       |   Design Rule Check - 959405.html
+|       |   Design Rule Check - 959408.html
+|       |   Design Rule Check - 959410.html
+|       |   Design Rule Check - 959412.html
+|       |   Design Rule Check - 959413.html
+|       |   
+|       +---Gerber Output
+|       |       105033-B002 REV E.EXTREP
+|       |       105033-B002 REV E.G1
+|       |       105033-B002 REV E.G2
+|       |       105033-B002 REV E.G3
+|       |       105033-B002 REV E.G4
+|       |       105033-B002 REV E.GBL
+|       |       105033-B002 REV E.GBO
+|       |       105033-B002 REV E.GBP
+|       |       105033-B002 REV E.GBS
+|       |       105033-B002 REV E.GD1
+|       |       105033-B002 REV E.GG1
+|       |       105033-B002 REV E.GKO
+|       |       105033-B002 REV E.GP1
+|       |       105033-B002 REV E.GP2
+|       |       105033-B002 REV E.GPB
+|       |       105033-B002 REV E.GPT
+|       |       105033-B002 REV E.GTL
+|       |       105033-B002 REV E.GTO
+|       |       105033-B002 REV E.GTP
+|       |       105033-B002 REV E.GTS
+|       |       105033-B002 REV E.REP
+|       |       105033-B002 REV E.RUL
+|       |       
+|       +---NC Drill Output
+|       |       105033-B002 REV E-RoundHoles-Plated.TXT
+|       |       105033-B002 REV E-SlotHoles-Plated.TXT
+|       |       105033-B002 REV E.DRL
+|       |       105033-B002 REV E.DRR
+|       |       105033-B002 REV E.LDP
+|       |       
+|       +---ODB Output
+|       |   |   105033-B002 REV E.REP
+|       |   |   
+|       |   \---odb
+|       |       +---matrix
+|       |       |       matrix
+|       |       |       
+|       |       +---steps
+|       |       |   \---pcb
+|       |       |       |   profile
+|       |       |       |   stephdr
+|       |       |       |   
+|       |       |       +---eda
+|       |       |       |       data
+|       |       |       |       
+|       |       |       +---layers
+|       |       |       |   +---bot-lay8
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---bottom_overlay
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---bottom_paste
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---bottom_solder
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---comp_+_bot
+|       |       |       |   |       components
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---comp_+_top
+|       |       |       |   |       components
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---drill
+|       |       |       |   |       features
+|       |       |       |   |       tools
+|       |       |       |   |       
+|       |       |       |   +---mid-lay3
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---mid-lay4
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---mid-lay5
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---mid-lay6
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---plane-lay2
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---plane-lay7
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---rout
+|       |       |       |   |       features
+|       |       |       |   |       tools
+|       |       |       |   |       
+|       |       |       |   +---top-lay1
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---top_overlay
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   +---top_paste
+|       |       |       |   |       features
+|       |       |       |   |       
+|       |       |       |   \---top_solder
+|       |       |       |           features
+|       |       |       |           
+|       |       |       \---netlists
+|       |       |           \---cadnet
+|       |       |                   netlist
+|       |       |                   
+|       |       \---symbols
+|       |           +---rect25x30_66
+|       |           |       features
+|       |           |       
+|       |           +---s39.3701_135
+|       |           |       features
+|       |           |       
+|       |           +---s39.3701_225
+|       |           |       features
+|       |           |       
+|       |           +---s47.3701_135
+|       |           |       features
+|       |           |       
+|       |           \---s47.3701_225
+|       |                   features
+|       |                   
+|       \---Pick Place Output
+|               Pick Place for 105033-B002 REV E.csv
+|               Pick Place for 105033-B002 REV E.txt
+|               
++---105033-0002_RK_CCA
+|       105033-0002_RK_BOM.pdf
+|       105033-0002_RK_BOM.xlsx
+|       105033-0002_RK_Schematic.pdf
+|       105033-0002_RK_source.zip
+|       105033-B002_RF_fab.zip
+|       
++---105034-0001 Rev RA CSP CCA
+|   |   105034-0001 CSM CCA.pdf
+|   |   105034-0001_RA.pdf
+|   |   105034-B001_RA.zip
+|   |   105034-X001 Rev RA CSM CCA BOM.xls
+|   |   105034-X001_RC_BOM.pdf
+|   |   
+|   \---Source Documents
+|           105034-0001 CSM CCA.tc3
+|           105034-0001_RA.DSN
+|           
++---105034-0001_RC_CCA
+|   |   105034-0001_RC_Schematic.pdf
+|   |   105034-B001_RB_FAB.zip
+|   |   105034-X001 Rev RC CSM CCA BOM.xls
+|   |   105034-X001_RC_BOM.pdf
+|   |   105034-X001_RC_BOM.xlsx
+|   |   
+|   \---105034-0001_RC_Source
+|           105034-B001_RB_botsilk.pdf
+|           105034-B001_RB_botsilk_notes.pdf
+|           105034-B001_RB_topsilk.pdf
+|           105034-B001_RB_topsilk_notes.pdf
+|           105034-X001_RC_CSM_SOURCE.zip
+|           
++---105034-0001_RD_CCA
+|       105034-0001_RD_Schematic.pdf
+|       105034-0001_RD_source.zip
+|       105034-B001_RC_3D_view.pdf
+|       105034-B001_RC_fab.zip
+|       105034-X001_RD_BOM.pdf
+|       105034-X001_RD_BOM.xlsx
+|       
++---105034-1001_RC_CCA
+|       105034-1001_RC_BOM.pdf
+|       105034-1001_RC_Schematic.pdf
+|       
++---105034-1001_RD_CCA
+|       105034-1001_RD_BOM.pdf
+|       105034-1001_RD_Schematic.pdf
+|       
++---105034-2001_RC_CCA
+|       105034-2001_RC_BOM.pdf
+|       105034-2001_RC_Schematic.pdf
+|       
++---105034-2001_RD_CCA
+|       105034-2001_RD_BOM.pdf
+|       105034-2001_RD_Schematic.pdf
+|       
++---105034-3001_RC_CCA
+|       105034-3001_RC_BOM.pdf
+|       105034-3001_RC_Schematic.pdf
+|       
++---105034-3001_RD_CCA
+|       105034-3001_RD_BOM.pdf
+|       105034-3001_RD_Schematic.pdf
+|       
++---105034-4001_RC_CCA
+|       105034-4001_RC_BOM.pdf
+|       105034-4001_RC_Schematic.pdf
+|       
++---105034-4001_RD_CCA
+|       105034-4001_RD_BOM.pdf
+|       105034-4001_RD_Schematic.pdf
+|       
++---105034-5001_RC_CCA
+|       105034-5001_RC_BOM.pdf
+|       105034-5001_RC_Schematic.pdf
+|       
++---105034-5001_RD_CCA
+|       105034-5001_RD_BOM.pdf
+|       105034-5001_RD_Schematic.pdf
+|       
++---105034-7001_RC_CCA
+|       105034-7001_RC_BOM.pdf
+|       105034-7001_RC_Schematic.pdf
+|       
++---105034-7001_RD_CCA
+|       105034-7001_RD_BOM.pdf
+|       105034-7001_RD_Schematic.pdf
+|       
++---105034-8001_RC_CCA
+|       105034-8001_RC_BOM.pdf
+|       105034-8001_RC_Schematic.pdf
+|       
++---105034-8001_RD_CCA
+|       105034-8001_RD_BOM.pdf
+|       105034-8001_RD_Schematic.pdf
+|       
++---105036-0002_RC_ CCA
+|   |   105036-0002_RC_BOM.pdf
+|   |   105036-0002_RC_Schematic.pdf
+|   |   105036-B001_RB_FAB.zip
+|   |   
+|   \---105036-0002_RC_Source
+|       |   105036-0002 Rev RC PA Ctl HARC CCA BOM.xls
+|       |   105036-0002_RC.DSN
+|       |   105036-0002_rc.pdf
+|       |   105036-0002_RC.xlsx
+|       |   105036-B001_RB_source_032511.zip
+|       |   
+|       \---allegro
+|               netlist.log
+|               pstchip.dat
+|               pstxnet.dat
+|               pstxprt.dat
+|               pxlBA.txt
+|               
++---105036-0002_RD_CCA
+|       105036-0002 RD rework.pdf
+|       105036-0002 RD rework.pptx
+|       105036-0002_RD_BOM.pdf
+|       
++---105036-000X Rev RA PA CTL CCA
+|   |   105036-0001 PA CTRL CCA.pdf
+|   |   105036-0001 Rev RA PA Controller CCA BOM.xls
+|   |   105036-0002 Rev RA PA Ctl HARC CCA BOM.xls
+|   |   105036-0002_RA.pdf
+|   |   105036-B001_RA.zip
+|   |   
+|   \---Source Documents
+|           105036-0001 PA CTRL CCA.tc3
+|           105036-0002_RA.DSN
+|           
++---105036-000X Rev RB PA CTL CCA
+|   |   105036-0002 Rev RB PA Ctl HARC CCA BOM.xls
+|   |   105036-0002_RA.pdf
+|   |   105036-B001_RA.zip
+|   |   
+|   \---Source Documents
+|           105036-0001 PA CTRL CCA.tc3
+|           105036-0002_RA.DSN
+|           
++---105037-0001 Rev RA TX Filter CCA
+|   |   105037-0001 Rev RA TX Filter CCA BOM.xls
+|   |   105037-0001 TX Filter.pdf
+|   |   105037-0001_ra.pdf
+|   |   105037-B001_RA.zip
+|   |   
+|   \---Source Documents
+|           105037-0001 TX Filter.tc3
+|           105037-0001_RA.DSN
+|           
++---105037-0001_RC_CCA
+|   |   105037 rework.pdf
+|   |   105037 rework.pptx
+|   |   105037-0001_RC_BOM.pdf
+|   |   105037-0001_RC_Schematic.pdf
+|   |   105037-B001_RB_FAB.zip
+|   |   
+|   \---105037-0001_RC_Source
+|       |   105037-0001 Rev RC TX Filter CCA BOM rework.xls
+|       |   105037-0001 Rev RC TX Filter CCA BOM.xls
+|       |   
+|       +---Program Files
+|       |   \---Altium Designer Summer 09
+|       |       \---Library
+|       |           \---Pcb
+|       |               \---Surface Mount
+|       |                       SOT23_5-6Lead_M.PcbLib
+|       |                       
+|       \---Users
+|           \---psolomon
+|               \---Documents
+|                   \---HARC-30
+|                       |   105037-0001 Rev RC TX Filter CCA BOM.xls
+|                       |   105037-0001_RC_Source_Documents.zip
+|                       |   
+|                       +---105037-0001_Rev_RC_TX_Filter_CCA.PRJPCB
+|                       |   \---105037-0001_Rev_RC_TX_Filter_CCA1
+|                       |           105037-0001_Rev_RC_TX_Filter_CCA_1.SCHLIB
+|                       |           
+|                       \---105037-0001_Rev_RC_Working-Copy.PRJPCB
+|                           \---105037-0001_Rev_RC_TX_Filter_CCA.PRJPCB
+|                               |   105037-B001_RB.pcb
+|                               |   105037-B001_RB.PcbLib
+|                               |   105037-B001_RB1.PcbLib
+|                               |   
+|                               \---Imported 105037-0001_RC.PRJPCB
++---105037-0001_RD_CCA
+|       105037-0001_RD_BOM.pdf
+|       105037-0001_RD_BOM.xlsx
+|       105037-0001_RD_Schematic.pdf
+|       105037-0001_RD_SOURCE.zip
+|       105037-B001_RC_FAB.zip
+|       
++---105037-0001_RE_CCA
+|       105037-0001_RE_BOM.pdf
+|       105037-0001_RE_BOM.xlsx
+|       105037-0001_RE_Schematic.pdf
+|       105037-0001_RE_SOURCE.zip
+|       105037-B001_RC_FAB.zip
+|       
++---105037-0001_RF_CCA
+|       105037-0001_RF_BOM.pdf
+|       105037-0001_RF_BOM.xlsx
+|       105037-0001_RF_Schematic.pdf
+|       105037-0001_RF_source.zip
+|       105037-B001_RD_3D_View.pdf
+|       105037-B001_RD_fab.zip
+|       
++---105038-0001 Rev RA RX Filter CCA
+|   |   105038-0001 Rev RA RX Filter CCA BOM.xls
+|   |   105038-0001 RX Filter.pdf
+|   |   105038-0001_ra.pdf
+|   |   105038-B001_RA.zip
+|   |   
+|   \---Source Documents
+|           105038-0001 RX Filter.tc3
+|           105038-0001_RA.DSN
+|           
++---105038-0001_RC_CCA
+|       105038-0001_RC_BOM.pdf
+|       105038-0001_RC_Schematic.pdf
+|       105038-0001_RC_SOURCE.zip
+|       105038-B001_RB_FAB.zip
+|       
++---105038-0001_RD_CCA
+|       105038-0001 RD rework.pdf
+|       105038-0001 RD rework.pptx
+|       105038-0001_RD_BOM.pdf
+|       Visio-Thermal Bridge Drawing.jpg
+|       Visio-Thermal Bridge Drawing.pdf
+|       
++---105038-0001_RE_CCA
+|       105038-0001_RE_BOM.pdf
+|       105038-0001_RE_BOM.xlsx
+|       105038-0001_RE_Schematic.pdf
+|       105038-0001_RE_SOURCE.zip
+|       105038-B001_RC_FAB.zip
+|       
++---105038-0001_RF_CCA
+|       105038-0001_RF_BOM.pdf
+|       105038-0001_RF_BOM.xlsx
+|       105038-0001_RF_BOM_Rework.pdf
+|       105038-0001_RF_Schematic.pdf
+|       105038-0001_RF_SOURCE.zip
+|       105038-B001_RC_FAB.zip
+|       
++---105038-0001_RG_CCA
+|       105038-0001_RG_BOM.pdf
+|       105038-0001_RG_BOM.xlsx
+|       105038-0001_RG_Schematic.pdf
+|       105038-0001_RG_source.zip
+|       105038-B001_RD_3D_view.pdf
+|       105038-B001_RD_fab.zip
+|       
++---105093-0001_RA_CCA
+|   |   105093-0001 HS MUX CCA.pdf
+|   |   105093-0001 Rev RA HS MUX CCA BOM.xls
+|   |   105093-0001_RA_Schematic.pdf
+|   |   105093-B001 RA.zip
+|   |   
+|   \---Source Documents
+|           105093-0001 HS MUX CCA.tc3
+|           105093-0001_RA.DSN
+|           
++---105093-0001_RC_CCA
+|       105093-0001_RC_BOM.xls
+|       105093-0001_RC_Schematic.pdf
+|       105093-0001_RC_Source.zip
+|       105093-B001_RC_source.zip
+|       105093_B001_RC_FAB.zip
+|       
++---105093-0001_RE_CCA
+|   |   105093-0001_RE_BOM.pdf
+|   |   105093-0001_RE_SCHEMATIC.pdf
+|   |   105093-B001_RD_FAB.zip
+|   |   
+|   \---105093-0001_RE_SOURCE
+|       |   105093-0001_RE.BOM
+|       |   105093-0001_RE.DSN
+|       |   105093-0001_re.opj
+|       |   105093-0001_re.pdf
+|       |   105093-0001_RE_0.DBK
+|       |   105093-0001_RE_BOM.xls
+|       |   105093-0001_RE_BOM.xlsx
+|       |   105093-0001_RE_source.zip
+|       |   105093-B001_RD_source.zip
+|       |   
+|       \---allegro
+|               netlist.log
+|               pstchip.dat
+|               pstxnet.dat
+|               pstxprt.dat
+|               pxlBA.txt
+|               
++---105093-0001_RF_CCA
+|       105093-0001_RF_BOM-assy.pdf
+|       105093-0001_RF_BOM.pdf
+|       105093-0001_RF_SCHEMATIC 1.pdf
+|       105093-0001_RF_SCHEMATIC.pdf
+|       
++---105093-0001_RG_CCA
+|   |   105093-0001_RG_BOM.pdf
+|   |   105093-0001_RG_BOM.xls
+|   |   105093-0001_RG_SCHEMATIC.pdf
+|   |   105093-B001_RE_FAB.zip
+|   |   
+|   \---odd files
+|           105093_B001_RE.cad
+|           tpaste_re.art
+|           
++---105093-0001_RH_CCA
+|       105093-0001_RG_SCHEMATIC.pdf
+|       105093-0001_RH_BOM.xls
+|       105093-B001_RE_FAB.zip
+|       
++---105274-0001_RA_CCA
+|   |   105274-0001 Rev RA PI BP CCA BOM.xls
+|   |   105274-0001_RA_BOM.pdf
+|   |   105274-0001_RA_Schematic.pdf
+|   |   105274-B001_RA_Fab.zip
+|   |   
+|   \---105274-0001_RA_SOURCE
+|       |   105274-0001 Rev RA PI BP CCA BOM.xls
+|       |   105274-0001-RA.DSN
+|       |   105274-0001-RA_ASSY.DWG
+|       |   105274-0001-RA_ASSY.pdf
+|       |   105274-0001-RA_Schematic.pdf
+|       |   105274-B001-RA-APR.lis
+|       |   105274-B001-RA-MSKAPR.lis
+|       |   105274-B001-RA.BOT
+|       |   105274-B001-RA.DRD
+|       |   105274-B001-RA.DTS
+|       |   105274-B001-RA.FAB
+|       |   105274-B001-RA.IN1
+|       |   105274-B001-RA.IN2
+|       |   105274-B001-RA.IN3
+|       |   105274-B001-RA.IN4
+|       |   105274-B001-RA.MAX
+|       |   105274-B001-RA.net
+|       |   105274-B001-RA.npt
+|       |   105274-B001-RA.SMB
+|       |   105274-B001-RA.SMT
+|       |   105274-B001-RA.SPB
+|       |   105274-B001-RA.SPT
+|       |   105274-B001-RA.SSB
+|       |   105274-B001-RA.SST
+|       |   105274-B001-RA.tap
+|       |   105274-B001-RA.TOP
+|       |   105274-B001-RA_FAB.DWG
+|       |   105274-B001-RA_FAB.pdf
+|       |   105274-B001-RA_INSERT.TXT
+|       |   105274-B001-RA_PICKNPLC.TXT
+|       |   105274-B001-RA_SMBOT.TXT
+|       |   105274-B001-RA_SMTOP.TXT
+|       |   105274-B001-RA_THBOT.TXT
+|       |   105274-B001-RA_THTOP.TXT
+|       |   README.TXT
+|       |   
+|       +---Board Fabrication
+|       |       105274-B001-RA_Fabrication.zip
+|       |       
+|       \---Card Assembly
+|               105274-0001 Rev RA PI BP CCA BOM.xls
+|               105274-0001-RA.DSN
+|               105274-0001-RA_ASSY.DWG
+|               105274-0001-RA_ASSY.pdf
+|               105274-0001-RA_Schematic.pdf
+|               105274-B001-RA_INSERT.TXT
+|               105274-B001-RA_PICKNPLC.TXT
+|               105274-B001-RA_SMBOT.TXT
+|               105274-B001-RA_SMTOP.TXT
+|               105274-B001-RA_THBOT.TXT
+|               105274-B001-RA_THTOP.TXT
+|               
++---105275-0001_RA_CCA
+|       105275-0001_RA_BOM.pdf
+|       105275-0001_RA_BOM.xls
+|       105275-0001_RA_Schematic.pdf
+|       105275-0001_RA_Source.zip
+|       105275-B001-RA.MAX
+|       
++---105275-0001_RC_CCA
+|       105275-0001_RC_BOM.pdf
+|       105275-0001_RC_BOM.xlsx
+|       105275-0001_RC_Schematic.pdf
+|       105275-0001_RC_SOURCE.zip
+|       105275-B001_RB_FAB.zip
+|       
++---105276-0001_RA_CCA
+|   |   105276-0001 PI CCA.pdf
+|   |   105276-0001 Rev RA Power Interface CCA BOM.xls
+|   |   105276-0001_RA_BOM.pdf
+|   |   105276-0001_RA_SCHEMATIC.pdf
+|   |   105276-B001-RA_FAB.zip
+|   |   
+|   \---105276-0001_RA_SOURCE
+|       |   105276-0001 Rev RA Power Interface CCA BOM.xls
+|       |   105276-0001-RA_ASSY.DWG
+|       |   105276-0001-RA_ASSY.pdf
+|       |   105276-0001_RA_HARC_POWER_INTFC.DSN
+|       |   105276-0001_RA_HARC_POWER_INTFC_SCHEMATIC.pdf
+|       |   105276-B001-RA-APR.lis
+|       |   105276-B001-RA-MSKAPR.lis
+|       |   105276-B001-RA.BOT
+|       |   105276-B001-RA.DTS
+|       |   105276-B001-RA.IN1
+|       |   105276-B001-RA.IN2
+|       |   105276-B001-RA.IN3
+|       |   105276-B001-RA.IN4
+|       |   105276-B001-RA.MAX
+|       |   105276-B001-RA.net
+|       |   105276-B001-RA.npt
+|       |   105276-B001-RA.SMB
+|       |   105276-B001-RA.SMT
+|       |   105276-B001-RA.SPT
+|       |   105276-B001-RA.SST
+|       |   105276-B001-RA.tap
+|       |   105276-B001-RA.TOP
+|       |   105276-B001-RA_FAB.DWG
+|       |   105276-B001-RA_FAB.pdf
+|       |   105276-B001-RA_INSERT.TXT
+|       |   105276-B001-RA_PICKNPLC.TXT
+|       |   105276-B001-RA_SMTOP.TXT
+|       |   105276-B001-RA_THTOP.TXT
+|       |   README.TXT
+|       |   
+|       +---Board Fabrication
+|       |       105276-B001-RA_Fabrication.zip
+|       |       
+|       \---Card Assembly
+|               105276-0001 Rev RA Power Interface CCA BOM.xls
+|               105276-0001-RA_ASSY.DWG
+|               105276-0001-RA_ASSY.pdf
+|               105276-0001_RA_HARC_POWER_INTFC.DSN
+|               105276-0001_RA_HARC_POWER_INTFC_SCHEMATIC.pdf
+|               105276-B001-RA_INSERT.TXT
+|               105276-B001-RA_PICKNPLC.TXT
+|               105276-B001-RA_SMTOP.TXT
+|               105276-B001-RA_THTOP.TXT
+|               
++---105277-0001_RA_CCA
+|   |   105277-0001 Power Routing CCA.pdf
+|   |   105277-0001 Rev RA Power Routing CCA BOM.xls
+|   |   105277-0001_RA_BOM.pdf
+|   |   105277-0001_RA_SCHEMATIC.pdf
+|   |   105277-B001_RA_FAB.zip
+|   |   
+|   \---105277-0001_RA_SOURCE
+|       |   105277-0001 Rev RA Power Routing CCA BOM.xls
+|       |   105277-0001-RA_ASSY.DWG
+|       |   105277-0001-RA_ASSY.pdf
+|       |   105277-0001-RA_HARC_POWER_ROUTING.DSN
+|       |   105277-B001-RA-APR.lis
+|       |   105277-B001-RA.BOT
+|       |   105277-B001-RA.DTS
+|       |   105277-B001-RA.IN1
+|       |   105277-B001-RA.IN2
+|       |   105277-B001-RA.IN3
+|       |   105277-B001-RA.IN4
+|       |   105277-B001-RA.MAX
+|       |   105277-B001-RA.net
+|       |   105277-B001-RA.npt
+|       |   105277-B001-RA.SMB
+|       |   105277-B001-RA.SMT
+|       |   105277-B001-RA.SST
+|       |   105277-B001-RA.tap
+|       |   105277-B001-RA.TOP
+|       |   105277-B001-RA_FAB.DWG
+|       |   105277-B001-RA_FAB.pdf
+|       |   105277-B001-RA_INSERT.TXT
+|       |   105277-B001-RA_PICKNPLC.TXT
+|       |   105277-B001-RA_THTOP.TXT
+|       |   README.TXT
+|       |   
+|       +---Board Fabrication
+|       |       105277-B001-RA Fabrication.zip
+|       |       
+|       \---Card Assembly
+|               105277-0001 Rev RA Power Routing CCA BOM.xls
+|               105277-0001-RA_ASSY.DWG
+|               105277-0001-RA_ASSY.pdf
+|               105277-0001-RA_HARC_POWER_ROUTING.DSN
+|               105277-0001-RA_POWER_ROUTING_SCHEMATIC.pdf
+|               105277-B001-RA_INSERT.TXT
+|               105277-B001-RA_PICKNPLC.TXT
+|               105277-B001-RA_THTOP.TXT
+|               
++---105277-0001_RB_CCA
+|   |   105277-0001 Power Routing CCA.pdf
+|   |   105277-0001 Rev RB Power Routing CCA BOM.xls
+|   |   105277-0001_RB_BOM.pdf
+|   |   105277-0001_RB_SCHEMATIC.pdf
+|   |   105277-B001_RA_FAB.zip
+|   |   
+|   \---105277-0001_RA_SOURCE
+|       |   105277-0001 Rev RA Power Routing CCA BOM.xls
+|       |   105277-0001-RA_ASSY.DWG
+|       |   105277-0001-RA_ASSY.pdf
+|       |   105277-0001-RA_HARC_POWER_ROUTING.DSN
+|       |   105277-B001-RA-APR.lis
+|       |   105277-B001-RA.BOT
+|       |   105277-B001-RA.DTS
+|       |   105277-B001-RA.IN1
+|       |   105277-B001-RA.IN2
+|       |   105277-B001-RA.IN3
+|       |   105277-B001-RA.IN4
+|       |   105277-B001-RA.MAX
+|       |   105277-B001-RA.net
+|       |   105277-B001-RA.npt
+|       |   105277-B001-RA.SMB
+|       |   105277-B001-RA.SMT
+|       |   105277-B001-RA.SST
+|       |   105277-B001-RA.tap
+|       |   105277-B001-RA.TOP
+|       |   105277-B001-RA_FAB.DWG
+|       |   105277-B001-RA_FAB.pdf
+|       |   105277-B001-RA_INSERT.TXT
+|       |   105277-B001-RA_PICKNPLC.TXT
+|       |   105277-B001-RA_THTOP.TXT
+|       |   README.TXT
+|       |   
+|       +---Board Fabrication
+|       |       105277-B001-RA Fabrication.zip
+|       |       
+|       \---Card Assembly
+|               105277-0001 Rev RA Power Routing CCA BOM.xls
+|               105277-0001-RA_ASSY.DWG
+|               105277-0001-RA_ASSY.pdf
+|               105277-0001-RA_HARC_POWER_ROUTING.DSN
+|               105277-0001-RA_POWER_ROUTING_SCHEMATIC.pdf
+|               105277-B001-RA_INSERT.TXT
+|               105277-B001-RA_PICKNPLC.TXT
+|               105277-B001-RA_THTOP.TXT
+|               
++---105278-0001_RA_CCA
+|   |   105278-0001_RA_BOM_2012-09-27.xlsx
+|   |   105278-0001_RA_Schematic.pdf
+|   |   105278-0001_RA_SOURCE_2012-09-27.zip
+|   |   105278-B001_RA_FAB_2012-09-27.zip
+|   |   
+|   \---Old
+|           105278-0001_RA_BOM_2012-09-27 for Adv Assy.xlsx
+|           105278-0001_RA_BOM_2012-09-27.pdf
+|           105278-0001_RA_SOURCE_2012-09-27.zip
+|           
++---105278-0001_RB_CCA
+|       105278-0001_RB_BOM.pdf
+|       105278-0001_RB_BOM.xlsx
+|       105278-0001_RB_Schematic.pdf
+|       105278-0001_RB_source.zip
+|       105278-B001_RB_FAB.zip
+|       
++---105278-0001_RC_CCA
+|       105278-0001_RC_BOM.pdf
+|       105278-0001_RC_BOM.xlsx
+|       105278-0001_RC_Schematic.pdf
+|       105278-0001_RC_source.zip
+|       105278-B001_RC_FAB.zip
+|       
++---105278-0001_RD_CCA
+|       105278-0001_RC_BOM.xlsx
+|       105278-0001_RD_BOM.pdf
+|       105278-B001_RC_FAB.zip
+|       
++---105279-0001_RA_CCA
+|       105279-0001_RA_BOM_2012-10-17.xlsx
+|       105279-0001_RA_Schematic.pdf
+|       105279-0001_RA_SOURCE.zip
+|       105279-B001_RA_FAB.zip
+|       
++---105279-0001_RB_CCA
+|       105279-0001_RB_BOM.pdf
+|       105279-0001_RB_BOM.xlsx
+|       105279-0001_RB_Schematic.pdf
+|       105279-0001_RB_source.zip
+|       105279-B001_RB_FAB.zip
+|       
++---105279-0001_RC_CCA
+|       105279-0001_RC _source.zip
+|       105279-0001_RC_BOM.pdf
+|       105279-0001_RC_BOM.xlsx
+|       105279-0001_RC_Schematic.pdf
+|       105279-B001_RC_FAB.zip
+|       
++---105279-0001_RD_CCA
+|       105279-0001_RC_BOM.xlsx
+|       105279-0001_RC_Schematic.pdf
+|       105279-0001_RD_BOM.pdf
+|       105279-0001_RD_BOM.xlsx
+|       105279-B001_RC_FAB.zip
+|       
++---105280-0001_RA_CCA
+|   |   105280-0001_RA_BOM.xlsx
+|   |   105280-0001_RA_BOM_FROM_SCH.xlsx
+|   |   105280-0001_RA_SOURCE.zip
+|   |   105280-B001_RA_FAB.zip
+|   |   105280-B001_RA_SOURCE.zip
+|   |   
+|   \---105280-0001_RA_Source
++---105280-0002_RA_CCA
+|       105280-0002_RA_BOM.xlsx
+|       105280-B002_RA_FAB.zip
+|       105280-B002_RA_SOURCE.zip
+|       
++---105282-0001_RA_CCA
+|       105282-0001_RA_BOM.xls
+|       105282-0001_RA_Schematic.pdf
+|       105282-0001_RA_source.zip
+|       105282-B001_RA_FAB.zip
+|       
++---105282-0001_RB_CCA
+|       105282-0001_RB.zip
+|       105282-0001_RB_BOM.xls
+|       105282-0001_RB_Schematic.pdf
+|       
++---105282-0001_RC_CCA
+|       105282-0001_RC.pdf
+|       105282-0001_RC_BOM.xls
+|       105282-0001_RC_source.zip
+|       105282-B001_RC.zip
+|       
++---105282-0002_RA_CCA
+|       105282-0002_RA_BOM.pdf
+|       105282-0002_RA_BOM.xlsx
+|       105282-0002_RA_SCHEMATIC.pdf
+|       105282-0002_RA_SOURCE.zip
+|       105282-B002_RA_FAB.zip
+|       
++---105421-0001_RA_CCA
+|   |   105421-0001_RA_BOM.pdf
+|   |   105421-0001_RA_Schematic.pdf
+|   |   105421-B001_RA_FAB.zip
+|   |   
+|   \---105421-0001_RA_SOURCE
+|       |   105421-0001 Rev RA PS BP CCA BOM.xls
+|       |   105421-0001-RA.DSN
+|       |   105421-0001-RA_ASSY.DWG
+|       |   105421-0001-RA_ASSY.pdf
+|       |   105421-0001-RA_Schematic.pdf
+|       |   105421-B001-RA-APR.lis
+|       |   105421-B001-RA-MSKAPR.lis
+|       |   105421-B001-RA.BOT
+|       |   105421-B001-RA.DTS
+|       |   105421-B001-RA.IN1
+|       |   105421-B001-RA.IN2
+|       |   105421-B001-RA.IN3
+|       |   105421-B001-RA.IN4
+|       |   105421-B001-RA.MAX
+|       |   105421-B001-RA.net
+|       |   105421-B001-RA.npt
+|       |   105421-B001-RA.SMB
+|       |   105421-B001-RA.SMT
+|       |   105421-B001-RA.SPB
+|       |   105421-B001-RA.SPT
+|       |   105421-B001-RA.SSB
+|       |   105421-B001-RA.SST
+|       |   105421-B001-RA.tap
+|       |   105421-B001-RA.TOP
+|       |   105421-B001-RA_FAB.DWG
+|       |   105421-B001-RA_FAB.pdf
+|       |   105421-B001-RA_INSERT.TXT
+|       |   105421-B001-RA_PICKNPLC.TXT
+|       |   105421-B001-RA_SMBOT.TXT
+|       |   105421-B001-RA_SMTOP.TXT
+|       |   105421-B001-RA_THBOT.TXT
+|       |   105421-B001-RA_THTOP.TXT
+|       |   
+|       +---Board Fabrication
+|       |       105421-B001-RA_Fabrication.zip
+|       |       
+|       \---Card Assembly
+|               105421-0001 Rev RA PS BP CCA BOM.xls
+|               105421-0001-RA.DSN
+|               105421-0001-RA_ASSY.DWG
+|               105421-0001-RA_ASSY.pdf
+|               105421-0001-RA_Schematic.pdf
+|               105421-B001-RA_INSERT.TXT
+|               105421-B001-RA_PICKNPLC.TXT
+|               105421-B001-RA_SMBOT.TXT
+|               105421-B001-RA_SMTOP.TXT
+|               105421-B001-RA_THBOT.TXT
+|               105421-B001-RA_THTOP.TXT
+|               
++---105422-0001_RA_CCA
+|   |   105422-0001_RA_BOM.pdf
+|   |   105422-0001_RA_FAB.zip
+|   |   105422-0001_RA_Schematic.pdf
+|   |   
+|   \---105422-0001_RA_Source
+|           105422-0001_RA (3-17-2011 3-47-28 PM).zip
+|           105422-0001_RA.brd.PCBDOC
+|           105422-0001_RA.brd.PcbLib
+|           105422-0001_RA.IntLib
+|           105422-0001_RA.OutJob
+|           105422-0001_RA.PrjPCB
+|           105422-0001_RA.PrjPCBStructure
+|           105422-0001_RA.SchDoc
+|           105422-0001_RA.SCHLIB
+|           105422-0001_RA_BOM.xls
+|           CAMtastic1.Cam
+|           CAMtastic5.Cam
+|           
++---105422-0001_RB_CCA
+|       105422-0001_RB_BOM.pdf
+|       105422-0001_RB_BOM.xlsx
+|       105422-0001_RB_Schematic.PDF
+|       105422-0001_RB_SOURCE.zip
+|       105422-B001_RB_FAB.zip
+|       
++---105430-0001_RA_CCA
+|   |   105430-0001_RA_BOM.pdf
+|   |   105430-0001_RA_BOM.xlsx
+|   |   105430-0001_RA_fab.zip
+|   |   105430-0001_RA_Schematic.pdf
+|   |   
+|   \---105430-0001_RA_Source
+|           105430-0001RA.step
+|           PCB1.PcbDoc
+|           PCB1.PCBDwf
+|           PvLib1.PvLib
+|           Sheet1.SchDoc
+|           SnapSIM.BomDoc
+|           SnapSIM.OutJob
+|           SnapSIM.PrjPcb
+|           SnapSIM.PrjPcbStructure
+|           
++---105504-0001_RA_CCA
+|   |   105504-0001_RA_BOM.pdf
+|   |   105504-0001_RA_Schematic.pdf
+|   |   
+|   +---105504-0001_RA_SOURCE
+|   |       105504-0001_RA.Annotation
+|   |       105504-0001_RA.OutJob
+|   |       105504-0001_RA.PcbLib
+|   |       105504-0001_RA.PrjPcb
+|   |       105504-0001_RA.PrjPcbStructure
+|   |       105504-0001_RA.SchLib
+|   |       105504-0001_RA_BOM.xlsx
+|   |       105504-0001_RA_HALF_DUPLEXER_CCA.Schdoc
+|   |       105504-B001_RA.PcbDoc
+|   |       CAMtastic_Drill.Cam
+|   |       CAMtastic_Gerber.Cam
+|   |       
+|   \---105504-B001_RA_FAB
+|       |   105504-B001_RA.gwk
+|       |   105504-B001_RA.PcbDoc
+|       |   105504-B001_RA_FAB.zip
+|       |   105504-B001_RA_For_Assy.pdf
+|       |   CAMtastic_Drill.Cam
+|       |   CAMtastic_Gerber.Cam
+|       |   ReadMe.txt
+|       |   
+|       +---Gerber Output
+|       |       105504-B001_RA-macro.APR_LIB
+|       |       105504-B001_RA.apr
+|       |       105504-B001_RA.EXTREP
+|       |       105504-B001_RA.GBL
+|       |       105504-B001_RA.GBO
+|       |       105504-B001_RA.GBP
+|       |       105504-B001_RA.GBS
+|       |       105504-B001_RA.GD1
+|       |       105504-B001_RA.GG1
+|       |       105504-B001_RA.GKO
+|       |       105504-B001_RA.GM1
+|       |       105504-B001_RA.GM2
+|       |       105504-B001_RA.GPB
+|       |       105504-B001_RA.GPT
+|       |       105504-B001_RA.GTL
+|       |       105504-B001_RA.GTO
+|       |       105504-B001_RA.GTP
+|       |       105504-B001_RA.GTS
+|       |       105504-B001_RA.REP
+|       |       105504-B001_RA.RUL
+|       |       Status Report.Txt
+|       |       
+|       +---NC Drill Output
+|       |       105504-B001_RA-RoundHoles.TXT
+|       |       105504-B001_RA-SlotHoles.TXT
+|       |       105504-B001_RA.DRL
+|       |       105504-B001_RA.DRR
+|       |       105504-B001_RA.LDP
+|       |       Status Report.Txt
+|       |       
+|       \---Pick Place Output
+|               Pick Place for 105504-B001_RA.csv
+|               Pick Place for 105504-B001_RA.txt
+|               Status Report.Txt
+|               
++---105505-0001_RA_CCA
+|   |   105505-0001_RA_BOM.pdf
+|   |   105505-0001_RA_Schematic.pdf
+|   |   
+|   +---105505-0001_RA_SOURCE
+|   |       105505-0001_RA.OutJob
+|   |       105505-0001_RA.PcbLib
+|   |       105505-0001_RA.PrjPcb
+|   |       105505-0001_RA.PrjPcbStructure
+|   |       105505-0001_RA.SchLib
+|   |       105505-0001_RA_BOM.xlsx
+|   |       105505-0001_RA_SUPPLY_SIDE_SWITCH.SchDoc
+|   |       105505-B001_RA.PcbDoc
+|   |       CAMtastic_Drill.Cam
+|   |       CAMtastic_Gerber.Cam
+|   |       
+|   \---105505-B001_RA_FAB
+|       |   105505-B001_RA.gwk
+|       |   105505-B001_RA.PcbDoc
+|       |   105505-B001_RA_FAB.zip
+|       |   105505-B001_RA_For_Assy.pdf
+|       |   CAMtastic_Drill.Cam
+|       |   CAMtastic_Gerber.Cam
+|       |   ReadMe.txt
+|       |   
+|       +---Gerber Output
+|       |       105505-B001_RA-macro.APR_LIB
+|       |       105505-B001_RA.apr
+|       |       105505-B001_RA.EXTREP
+|       |       105505-B001_RA.GBL
+|       |       105505-B001_RA.GBO
+|       |       105505-B001_RA.GBP
+|       |       105505-B001_RA.GBS
+|       |       105505-B001_RA.GD1
+|       |       105505-B001_RA.GG1
+|       |       105505-B001_RA.GKO
+|       |       105505-B001_RA.GM1
+|       |       105505-B001_RA.GM2
+|       |       105505-B001_RA.GPB
+|       |       105505-B001_RA.GPT
+|       |       105505-B001_RA.GTL
+|       |       105505-B001_RA.GTO
+|       |       105505-B001_RA.GTP
+|       |       105505-B001_RA.GTS
+|       |       105505-B001_RA.REP
+|       |       105505-B001_RA.RUL
+|       |       Status Report.Txt
+|       |       
+|       +---NC Drill Output
+|       |       105505-B001_RA-RoundHoles.TXT
+|       |       105505-B001_RA-SlotHoles.TXT
+|       |       105505-B001_RA.DRL
+|       |       105505-B001_RA.DRR
+|       |       105505-B001_RA.LDP
+|       |       Status Report.Txt
+|       |       
+|       \---Pick Place Output
+|               Pick Place for 105505-B001_RA.csv
+|               Pick Place for 105505-B001_RA.txt
+|               Status Report.Txt
+|               
++---105506-0001_RA_CCA
+|   |   105506-0001_RA_BOM.pdf
+|   |   105506-0001_RA_BOM.xlsx
+|   |   105506-0001_RA_Schematic.pdf
+|   |   
+|   +---105506-0001_RA_SOURCE
+|   |       105506-0001_RA.OutJob
+|   |       105506-0001_RA.PcbLib
+|   |       105506-0001_RA.PrjPcb
+|   |       105506-0001_RA.PrjPcbStructure
+|   |       105506-0001_RA.SchLib
+|   |       105506-0001_RA_RFBC_Breakout_CCA.SchDoc
+|   |       105506-B001_RA.PcbDoc
+|   |       CAMtastic_Drill.Cam
+|   |       CAMtastic_Gerber.Cam
+|   |       
+|   \---105506-B001_RA_FAB
+|       |   105506-B001_RA.gwk
+|       |   105506-B001_RA.PcbDoc
+|       |   105506-B001_RA_FAB.zip
+|       |   105506-B001_RA_For_Assy.pdf
+|       |   CAMtastic_Drill.Cam
+|       |   CAMtastic_Gerber.Cam
+|       |   ReadMe.txt
+|       |   
+|       +---Gerber Output
+|       |       105506-B001_RA-macro.APR_LIB
+|       |       105506-B001_RA.apr
+|       |       105506-B001_RA.EXTREP
+|       |       105506-B001_RA.G1
+|       |       105506-B001_RA.GBL
+|       |       105506-B001_RA.GBO
+|       |       105506-B001_RA.GBP
+|       |       105506-B001_RA.GBS
+|       |       105506-B001_RA.GD1
+|       |       105506-B001_RA.GG1
+|       |       105506-B001_RA.GKO
+|       |       105506-B001_RA.GM1
+|       |       105506-B001_RA.GM2
+|       |       105506-B001_RA.GP1
+|       |       105506-B001_RA.GPB
+|       |       105506-B001_RA.GPT
+|       |       105506-B001_RA.GTL
+|       |       105506-B001_RA.GTO
+|       |       105506-B001_RA.GTP
+|       |       105506-B001_RA.GTS
+|       |       105506-B001_RA.REP
+|       |       105506-B001_RA.RUL
+|       |       Status Report.Txt
+|       |       
+|       +---NC Drill Output
+|       |       105506-B001_RA.DRL
+|       |       105506-B001_RA.DRR
+|       |       105506-B001_RA.LDP
+|       |       105506-B001_RA.TXT
+|       |       Status Report.Txt
+|       |       
+|       \---Pick Place Output
+|               Pick Place for 105506-B001_RA.csv
+|               Pick Place for 105506-B001_RA.txt
+|               Status Report.Txt
+|               
++---105604-0001_RA_CCA
+|   |   105604-0001_RA_BOM.xlsx
+|   |   105604-0001_RA_Schematic.pdf
+|   |   105604-B001_RA_FAB.zip
+|   |   
+|   \---105604-0001_RA_SOURCE
+|           105604-0001_RA_Microcontroller_Module.PcbLib
+|           105604-0001_RA_Microcontroller_Module.SchDoc
+|           105604-0001_RA_Microcontroller_Module.SchLib
+|           105604-0001_RA_Microcontroller_Module_CCA.OutJob
+|           105604-0001_RA_Microcontroller_Module_CCA.PrjPcb
+|           105604-0001_RA_Microcontroller_Module_CCA.PrjPcbStructure
+|           105604-B001_RA_Microcontroller_Module.PcbDoc
+|           Gerber.Cam
+|           NCDrill.Cam
+|           
++---105612-0001_RA_CCA
+|       105612-0001_RA_BOM.pdf
+|       105612-0001_RA_BOM.xlsx
+|       105612-0001_RA_Schematic.pdf
+|       105612-0001_RA_SOURCE.zip
+|       105612-B001_RA_FAB.zip
+|       
++---105615-0001_RA_CCA
+|   |   105615-0001_RA_BOM.pdf
+|   |   105615-0001_RA_BOM.xlsx
+|   |   105615-0001_RA_Schematic.pdf
+|   |   105615-B001_RA_FAB.zip
+|   |   
+|   \---105615-0001_RA_Source
+|           105615-0001_RA_Bottom_Part_Locator.pdf
+|           105615-0001_RA_SOURCE_2012-10-08.zip
+|           105615-0001_RA_Top_Part_Locator.pdf
+|           105615-B001_RA.gwk
+|           105615-B001_RA.step
+|           
++---105615-0001_RB_CCA
+|   |   105615-0001_RB_BOM - Corrected.xlsx
+|   |   105615-0001_RB_BOM 2_13.pdf
+|   |   105615-0001_RB_BOM.pdf
+|   |   105615-0001_RB_BOM.xlsx
+|   |   105615-0001_RB_Schematic.pdf
+|   |   105615-B001_RA_FAB.zip
+|   |   
+|   \---105615-0001_RB_Source
+|           105615-0001_RB_SOURCE.zip
+|           105615-B001_RA.gwk
+|           105615-B001_RA.step
+|           105615-B001_RA_Bottom_Part_Locator.pdf
+|           105615-B001_RA_Top_Part_Locator.pdf
+|           
++---105615-0001_RC_CCA
+|       105615-0001_RC_BOM.pdf
+|       105615-0001_RC_BOM.xlsx
+|       105615-0001_RC_Schematic.pdf
+|       
++---105615-0001_RD_CCA
+|   |   105615-0001_RD_BOM.pdf
+|   |   105615-0001_RD_BOM.XLSX
+|   |   105615-0001_RD_Schematic.PDF
+|   |   105615-0001_RD_source.zip
+|   |   105615-B001_RB_Fab.zip
+|   |   
+|   \---To ACDI
+|           105615-0001_RB_SOURCE.zip
+|           105615-0001_RD_BOM_ACDI.xlsx
+|           105615-0001_RD_Schematic Markup.pdf
+|           
++---105657-0001_RA_CCA
+|   |   105657-0001_RA_Assy_Bottom.pdf
+|   |   105657-0001_RA_Assy_Top.pdf
+|   |   105657-0001_RA_Block_Diagram.pdf
+|   |   105657-0001_RA_BOM.pdf
+|   |   105657-0001_RA_BOM.xlsx
+|   |   105657-0001_RA_Schematic.pdf
+|   |   105657-B001_RA_FAB.zip
+|   |   
+|   \---Source
+|           105657-0001_RA_PRELIMINARY_BOM.xlsx
+|           105657-0001_RA_SOURCE_2012-06-19.zip
+|           105657-B001_RA.step
+|           PA_CTRL_BLOCK_DIAGRAM(1).SchDoc
+|           
++---105657-0001_RB_CCA
+|       105657-0001_RB_BOM.pdf
+|       105657-0001_RB_BOM.xlsx
+|       105657-0001_RB_Schematic.pdf
+|       105657-0001_RB_SOURCE.zip
+|       105657-B001_RB_FAB.zip
+|       
++---105657-0001_RC_CCA
+|       105657-0001_RC_BOM.pdf
+|       105657-0001_RC_BOM.xlsx
+|       105657-0001_RC_Schematic.pdf
+|       105657-0001_RC_SOURCE.zip
+|       105657-B001_RB_FAB.zip
+|       
++---105657-0001_RD_CCA
+|       105657-0001_RD_BOM.pdf
+|       105657-0001_RD_BOM.xlsx
+|       105657-0001_RD_Schematic.PDF
+|       105657-0001_RD_SOURCE.zip
+|       105657-B001_RC_FAB.zip
+|       
++---105668-0001_RA_CCA
+|       105668-0001_RA_BOM.pdf
+|       105668-0001_RA_BOM.xlsx
+|       105668-0001_RA_Schematic.pdf
+|       105668-0001_RA_SOURCE_2012-11-14.zip
+|       105668-B001_RA_FAB.zip
+|       
++---105668-0001_RB_CCA
+|       105668-0001_RB_BOM.xlsx
+|       105668-0001_RB_Schematic.PDF
+|       105668-0001_RB_SOURCE.zip
+|       105668-B001_RB(Standard).step
+|       105668-B001_RB_FAB.zip
+|       
++---105688-0001_RA_CCA
+|   |   105688_RA_Schematic.PDF
+|   |   
+|   +---105688-0001_RA_Source
+|   |   |   105688-0001 FAN EMI Filter.PDF
+|   |   |   105688-0001 FAN EMI Filter.step
+|   |   |   105688_RA_Schematics.PDF
+|   |   |   Fan EMI Filter.OutJob
+|   |   |   FAN EMI Filter.PcbDoc
+|   |   |   Fan EMI Filter.PrjPcb
+|   |   |   Fan EMI Filter.PrjPcbStructure
+|   |   |   FAN EMI Filter.SchDoc
+|   |   |   OSHPark Render Bottom.png
+|   |   |   OSHPark Render Top.png
+|   |   |   
+|   |   \---Project Outputs for Fan EMI Filter
+|   |           FAN EMI Filter-macro.APR_LIB
+|   |           FAN EMI Filter.apr
+|   |           FAN EMI Filter.DRR
+|   |           FAN EMI Filter.EXTREP
+|   |           FAN EMI Filter.GBL
+|   |           FAN EMI Filter.GBO
+|   |           FAN EMI Filter.GBS
+|   |           FAN EMI Filter.GKO
+|   |           FAN EMI Filter.GTL
+|   |           FAN EMI Filter.GTO
+|   |           FAN EMI Filter.GTS
+|   |           FAN EMI Filter.LDP
+|   |           FAN EMI Filter.REP
+|   |           FAN EMI Filter.RUL
+|   |           FAN EMI Filter.XLN
+|   |           Fan EMI Filter.zip
+|   |           Status Report.Txt
+|   |           
+|   \---105688-B001_RA_FAB
+|       |   105688-B001_RA_Final_Composite.PDF
+|       |   
+|       +---Gerber Output
+|       |       FAN EMI Filter.apr
+|       |       FAN EMI Filter.EXTREP
+|       |       FAN EMI Filter.GBL
+|       |       FAN EMI Filter.GBO
+|       |       FAN EMI Filter.GBS
+|       |       FAN EMI Filter.GKO
+|       |       FAN EMI Filter.GTL
+|       |       FAN EMI Filter.GTO
+|       |       FAN EMI Filter.GTS
+|       |       FAN EMI Filter.RUL
+|       |       FAN EMI Filter.XLN
+|       |       
+|       \---NC Drill Outptu
+|               FAN EMI Filter.DRR
+|               FAN EMI Filter.LDP
+|               Status Report.Txt
+|               
++---105694-0001_RA_CCA
+|       105694-0001_RA_BOM.pdf
+|       105694-0001_RA_BOM.xlsx
+|       105694-0001_RA_Schematic.pdf
+|       105694-0001_RA_SOURCE.zip
+|       105694-B001_RA_FAB.zip
+|       
++---105741-0001_RA_CCA
+|       105741-0001_RA_BOM.pdf
+|       105741-0001_RA_BOM_2014-12-18.xlsx
+|       105741-0001_RA_Schematic.PDF
+|       105741-0001_RA_source.zip
+|       105741-B001_RA_fab.zip
+|       
++---106011-0001_RA_CCA
+|       106011-0001_RA_ASM.PDF
+|       106011-0001_RA_BOM.pdf
+|       106011-0001_RA_BOM.xlsx
+|       106011-0001_RA_Schematic.PDF
+|       106011-0001_RA_Source.zip
+|       106011-B001_RA.txt
+|       106011-B001_RA_Fab.zip
+|       
++---106011-0002_RA_CCA
+|       106011-0002_RA_ASM.PDF
+|       106011-0002_RA_BOM.pdf
+|       106011-0002_RA_BOM.xlsx
+|       106011-0002_RA_Schematic.PDF
+|       106011-0002_RA_Source.zip
+|       106011-B002_RA_FAB.zip
+|       
++---106012-0001_RA_CCA
+|       106012-0001 RA_source.zip
+|       106012-0001_RA_BOM.txt
+|       106012-0001_RA_BOM.xlsx
+|       106012-B001 RA_FAB_ITAR.zip
+|       
++---106012-0001_RB_CCA
+|       106012-0001_RB_BOM.pdf
+|       106012-0001_RB_BOM.xlsx
+|       106012-0001_RB_Schematic.PDF
+|       106012-0001_RB_Source.zip
+|       106012-0001_RB_STEP.step
+|       106012-B001_RB_Fab.zip
+|       
++---106013-0001_RA_CCA
+|       106013-0001_RA_BOM.xlsx
+|       106013-0001_RA_Schematic.PDF
+|       106013-B001 RA_Fab.zip
+|       
++---106013-0001_RB_CCA
+|       106013-0001_RB_ASM.zip
+|       106013-0001_RB_BOM.pdf
+|       106013-0001_RB_BOM.xlsx
+|       106013-0001_RB_Schematic.PDF
+|       106013-0001_RB_source.zip
+|       106013-B001_RB_Fab.zip
+|       
++---106013-1001_RB_CCA
+|       106013-1001_RB_ASM.zip
+|       106013-1001_RB_BOM.pdf
+|       106013-1001_RB_BOM.xlsx
+|       106013-1001_RB_Schematic.PDF
+|       106013-1001_RB_source.zip
+|       106013-B001_RB_FAB.zip
+|       
++---106013-1001_RC_CCA
+|       106013-1001_RC_BOM.pdf
+|       106013-1001_RC_BOM.xlsx
+|       
++---106014-0001_RA_CCA
+|   |   EC-NA-1383.pdf
+|   |   
+|   \---2015 EDEX Radio
+|       |   Schematic Prints.PDF
+|       |   
+|       \---EDEX-W-HR-C0
+|           |   EDEX-W-HR-C0.G1
+|           |   EDEX-W-HR-C0.G2
+|           |   EDEX-W-HR-C0.G3
+|           |   EDEX-W-HR-C0.G4
+|           |   EDEX-W-HR-C0.G5
+|           |   EDEX-W-HR-C0.G6
+|           |   EDEX-W-HR-C0.G7
+|           |   EDEX-W-HR-C0.G8
+|           |   EDEX-W-HR-C0.GBL
+|           |   EDEX-W-HR-C0.GBO
+|           |   EDEX-W-HR-C0.GBP
+|           |   EDEX-W-HR-C0.GBS
+|           |   EDEX-W-HR-C0.GD1
+|           |   EDEX-W-HR-C0.GG1
+|           |   EDEX-W-HR-C0.GM1
+|           |   EDEX-W-HR-C0.GM2
+|           |   EDEX-W-HR-C0.GTL
+|           |   EDEX-W-HR-C0.GTO
+|           |   EDEX-W-HR-C0.GTP
+|           |   EDEX-W-HR-C0.GTS
+|           |   GERBERS.pdf
+|           |   IPC-D-356A NET LIST.ipc
+|           |   Pick Place for EDEX-W-HR-C0.txt
+|           |   README_ETC WIRELESS_EDEX-W-HR_REV B0.DOC
+|           |   STACK-UP DRAWING.pdf
+|           |   
+|           +---ASSY FILES
+|           |       BOTTOM ASSY_PANEL A.pdf
+|           |       BOTTOM ASSY_PANEL B.pdf
+|           |       BOTTOM ASSY_PANEL C.pdf
+|           |       BOTTOM ASSY_PANEL D.pdf
+|           |       BOTTOM ASSY_PANEL E.pdf
+|           |       BOTTOM ASSY_PANEL F.pdf
+|           |       BOTTOM ASSY_PANEL G.pdf
+|           |       Pick Place for EDEX-W-HR-C0.txt
+|           |       TOP ASSY_PANEL A.pdf
+|           |       TOP ASSY_PANEL B.pdf
+|           |       TOP ASSY_PANEL C.pdf
+|           |       TOP ASSY_PANEL D.pdf
+|           |       TOP ASSY_PANEL E.pdf
+|           |       TOP ASSY_PANEL F.pdf
+|           |       TOP ASSY_PANEL G.pdf
+|           |       
+|           +---BOM
+|           |       EDEX-W-HR_RevC_BOM.xls
+|           |       
+|           \---NC DRILL FILES
+|                   EDEX-W-HR-C0.DRR
+|                   EDEX-W-HR-C0.LDP
+|                   EDEX-W-HR-C0.TXT
+|                   
++---106014-0002_RA_CCA
+|       106014-0002_RA_BOM.pdf
+|       106014-0002_RA_BOM.xlsx
+|       106014-0002_RA_BOM_Sierra.xlsx
+|       106014-0002_RA_Schematic.PDF
+|       106014-0002_RA_source.zip
+|       106014-B002_RA_FAB.zip
+|       
++---106019-0001_RA_CCA
+|       106019-0001_RA_ASM.PDF
+|       106019-0001_RA_BOM.pdf
+|       106019-0001_RA_BOM.xlsx
+|       106019-0001_RA_Source.zip
+|       106019-0001_Schematic.PDF
+|       106019-B001_RA_Fab.zip
+|       
++---106019-0001_RB_CCA
+|       106019-0001_RB_BOM.xlsx
+|       
++---106021-0001_RA_CCA
+|       106021-0001_RA_ASM.PDF
+|       106021-0001_RA_BOM.pdf
+|       106021-0001_RA_BOM.xlsx
+|       106021-0001_RA_Source.zip
+|       106021-B001_RA_FAB.zip
+|       
++---106022-0002_RA_CCA
+|       106022-0002 WOC.pdf
+|       106022-0002_RA_ASM.PDF
+|       106022-0002_RA_BOM.pdf
+|       106022-0002_RA_BOM.xlsx
+|       106022-0002_RA_SCH.PDF
+|       106022-B002_RA_Fab.zip
+|       106022-B002_RA_Source.zip
+|       EDEX Antenna Assembly.pdf
+|       
++---106022-1595_RA_CCA
+|       106022-1595_RA_ASM.PDF
+|       106022-1595_RA_BOM.pdf
+|       106022-1595_RA_BOM.xlsx
+|       106022-1595_RA_Schematic.PDF
+|       106022-B002_RA_Fab.zip
+|       106022-XXXX_RA_Source.zip
+|       EDEX Antenna Assembly.pdf
+|       
++---106023-0001_RA_CCA
+|       106023-0001_RA_BOM.pdf
+|       106023-0001_RA_BOM.xlsx
+|       106023-0001_RA_Schematic.PDF
+|       106023-0001_RA_Source.zip
+|       106023-0001_RA_STEP.step
+|       106023-B001_RA_Fab.zip
+|       
++---106023-0001_RB_CCA
+|       106023-0001_RB_BOM.xlsx
+|       
++---106024-1615_RA_CCA
+|       106024-0001_RA_BOM.xlsx
+|       106024-0001_RA_BOM_IncludesDNP.xlsx
+|       106024-0001_RA_Schematic.PDF
+|       106024-1615_RA Assembly Procedure.pdf
+|       106024-1615_RA_BOM.pdf
+|       106024-1615_RA_BOM.xlsx
+|       106024-B001_RA_Fab.zip
+|       106024-XXXX_RA_Source.zip
+|       
++---106028-0001_RA_CCA
+|       106028-0001_RA_BOM.pdf
+|       106028-0001_RA_BOM.xlsx
+|       106028-0001_RA_Fab.zip
+|       106028-0001_RA_Schematic.PDF
+|       106028-0001_RA_Source.zip
+|       
+\---106029-0001_RA_CCA
+    |   106029-0001_RA_BOM.xlsx
+    |   106029-0001_RA_Fab.zip
+    |   106029-0001_RA_Schematic.PDF
+    |   
+    +---106029-0001_RA_Fab
+    |       MUSE_MI_DISTRO_A0-macro.APR_LIB
+    |       MUSE_MI_DISTRO_A0.apr
+    |       MUSE_MI_DISTRO_A0.DRR
+    |       MUSE_MI_DISTRO_A0.EXTREP
+    |       MUSE_MI_DISTRO_A0.G1
+    |       MUSE_MI_DISTRO_A0.G2
+    |       MUSE_MI_DISTRO_A0.GBL
+    |       MUSE_MI_DISTRO_A0.GBO
+    |       MUSE_MI_DISTRO_A0.GBP
+    |       MUSE_MI_DISTRO_A0.GBS
+    |       MUSE_MI_DISTRO_A0.GD1
+    |       MUSE_MI_DISTRO_A0.GM1
+    |       MUSE_MI_DISTRO_A0.GM2
+    |       MUSE_MI_DISTRO_A0.GTL
+    |       MUSE_MI_DISTRO_A0.GTO
+    |       MUSE_MI_DISTRO_A0.GTS
+    |       MUSE_MI_DISTRO_A0.LDP
+    |       MUSE_MI_DISTRO_A0.PDF
+    |       MUSE_MI_DISTRO_A0.REP
+    |       MUSE_MI_DISTRO_A0.RUL
+    |       MUSE_MI_DISTRO_A0.TXT
+    |       
+    \---106029-0001_RA_Source
+        |   Status Report.Txt
+        |   
+        +---Assembly Drawings
+        |       MUSE_MI_DISTRO_A0.PDF
+        |       
+        +---BOM
+        |       Bill of Materials-MUSE_MI_DISTRO_A0(MUSE_MI_DISTRO_A0_DNP).xlsx
+        |       
+        +---ExportSTEP
+        |       MUSE_MI_DISTRO_A0(MUSE_MI_DISTRO_A0_DNP).step
+        |       
+        +---Fab Drawing
+        |       MUSE_MI_DISTRO_A0.PDF
+        |       
+        +---Gerber
+        |       MUSE_MI_DISTRO_A0-macro.APR_LIB
+        |       MUSE_MI_DISTRO_A0.apr
+        |       MUSE_MI_DISTRO_A0.EXTREP
+        |       MUSE_MI_DISTRO_A0.G1
+        |       MUSE_MI_DISTRO_A0.G2
+        |       MUSE_MI_DISTRO_A0.GBL
+        |       MUSE_MI_DISTRO_A0.GBO
+        |       MUSE_MI_DISTRO_A0.GBP
+        |       MUSE_MI_DISTRO_A0.GBS
+        |       MUSE_MI_DISTRO_A0.GD1
+        |       MUSE_MI_DISTRO_A0.GM1
+        |       MUSE_MI_DISTRO_A0.GM2
+        |       MUSE_MI_DISTRO_A0.GTL
+        |       MUSE_MI_DISTRO_A0.GTO
+        |       MUSE_MI_DISTRO_A0.GTS
+        |       MUSE_MI_DISTRO_A0.REP
+        |       MUSE_MI_DISTRO_A0.RUL
+        |       
+        +---NC Drill
+        |       MUSE_MI_DISTRO_A0.DRR
+        |       MUSE_MI_DISTRO_A0.LDP
+        |       MUSE_MI_DISTRO_A0.TXT
+        |       
+        +---PCB 3D Print
+        |       PCB 3D Print - BOTTOM.PDF
+        |       PCB 3D Print - TOP.PDF
+        |       
+        +---PDF3D
+        |       PDF3D.PDF
+        |       
+        \---Schematic Print
+                MUSE_MI_DISTRO_A0.PDF
+                
